@@ -1,0 +1,16 @@
+node_modules/
+.next/
+*.tsbuildinfo
+prisma/*.db*
+.env*
+playwright-report/
+test-results/
+data/quarantine/
+data/collection-report.json
+*.log
+.DS_Store
+*.pem
+*.key
+*.p12
+*.pfx
+coverage/

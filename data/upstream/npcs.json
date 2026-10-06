@@ -1,0 +1,332 @@
+[
+  {
+    "id": "17f69a221c9l0i2ojlqe4t4u5lk6pc",
+    "name": "Merchant Kalé",
+    "location": "Limgrave, Church of Elleh",
+    "role": " General Goods Shop"
+  },
+  {
+    "id": "17f69ddf39dl0i2ojm1riku8s6qxfs",
+    "name": "Sorceress Sellen",
+    "location": "Limgrave, Waypoint Ruins",
+    "role": "Sorceries Shop"
+  },
+  {
+    "id": "17f69f1be7cl0i2ojly1jcpn4j09p3",
+    "name": "Smithing Master Hewg",
+    "location": "Roundtable Hold",
+    "role": "Blacksmith"
+  },
+  {
+    "id": "17f69af3e48l0i2ojme5z01n0gziz",
+    "name": "Roderika",
+    "location": "Stormhill Shack, Roundtable Hold",
+    "role": "Spirit-Tuner"
+  },
+  {
+    "id": "17f69b266a8l0i2okbqoh1wxlp59l",
+    "name": "Thops",
+    "location": "Church of Irith in Liurnia of the Lakes",
+    "role": "Sorcery Student"
+  },
+  {
+    "id": "17f698fa9a6l0i2oki2yjnuz5pqjrh",
+    "name": "Enia",
+    "location": "Roundtable Hold",
+    "role": "Finger Reader"
+  },
+  {
+    "id": "17f69b2abd8l0i2oki2301lpwzqbe8",
+    "name": "Miriel, Pastor Of Vows",
+    "location": "Church of Vows",
+    "role": "Steward of the Church of Vows"
+  },
+  {
+    "id": "17f69f7be15l0i2oki48thaky6x3tg",
+    "name": "War Counselor Iji",
+    "location": "Kingsrealm Ruins, Western Liurnia of the Lakes",
+    "role": "Blacksmith & Quest NPC"
+  },
+  {
+    "id": "17f69b259e2l0i2ol1q157ho9f89ia",
+    "name": "Sorcerer Rogier",
+    "location": "Stormveil Castle",
+    "role": "Merchant"
+  },
+  {
+    "id": "17f69cd42f7l0i2ol82u1cg8l2ia3d",
+    "name": "Gurranq, Beast Clergyman",
+    "location": "Bestial Sanctum, Caelid",
+    "role": "Special Trader"
+  },
+  {
+    "id": "17f69de1218l0i2olc1m799deyzbgj",
+    "name": "Boc The Seamster",
+    "location": "Limgrave",
+    "role": "Garments Adjuster"
+  },
+  {
+    "id": "17f69ddef68l0i2olcp6li59r4nce2",
+    "name": "Brother Corhyn",
+    "location": "Roundtable Hold",
+    "role": "Holy Practitioner"
+  },
+  {
+    "id": "17f699a4f38l0i2olkl6gze7y5zrp8",
+    "name": "D, Hunter Of The Dead",
+    "location": "Roundtable Hold",
+    "role": "Undead Hunter"
+  },
+  {
+    "id": "17f69768ff6l0i2olppqo9yb2ltjcb",
+    "name": "Knight Bernahl",
+    "location": "Warmaster's Shack, Volcano Manor",
+    "role": "Ash of War Merchant"
+  },
+  {
+    "id": "17f69b2925el0i2olviqhconjh7a7i",
+    "name": "Pidia, Carian Servant",
+    "location": "Caria Manor",
+    "role": "Merchant"
+  },
+  {
+    "id": "17f69c203c0l0i2oly55scrrz3xpp",
+    "name": "Imprisoned Merchant",
+    "location": "Mohgwyn Dynasty Mausoleum",
+    "role": " General Goods Shop"
+  },
+  {
+    "id": "17f699a9d79l0i2olzmep3owqdj2z6",
+    "name": "Melina",
+    "location": "The beginning of the Tarnished's journey.",
+    "role": "Maiden"
+  },
+  {
+    "id": "17f69998867l0i2ommc4k9yu9xtixv",
+    "name": "Bloody Finger Hunter Yura",
+    "location": "Limgrave: near Seaside Ruins",
+    "role": "Bloody Finger Hunter Guide"
+  },
+  {
+    "id": "17f69b68561l0i2omq2dgwdcu8vtr",
+    "name": "Iron Fist Alexander",
+    "location": "Kevin Howarth",
+    "role": null
+  },
+  {
+    "id": "17f69929146l0i2omt69yecqm01d4k",
+    "name": "White-faced Varré",
+    "location": "Various Locations",
+    "role": "Player Guidance"
+  },
+  {
+    "id": "17f6998a6eel0i2omw40wiu6ms1t9nd",
+    "name": "Renna",
+    "location": "Limgrave",
+    "role": "The Storyteller"
+  },
+  {
+    "id": "17f69a4d1del0i2omxljdmymj6gaho",
+    "name": "Fia",
+    "location": "Roundtable Hold",
+    "role": "Deathbed Companion"
+  },
+  {
+    "id": "17f69b242a4l0i2onfyowzjcqnhqab",
+    "name": "Edgar",
+    "location": "Castle Morne, Weeping Peninsula",
+    "role": "Role goes here."
+  },
+  {
+    "id": "17f69b22fd9l0i2ono62dded63kgv",
+    "name": "Irina",
+    "location": "Bridge of Sacrifice, Weeping Peninsula",
+    "role": "Citizen in need of help."
+  },
+  {
+    "id": "17f69c93f4al0i2onohm0srozqz4mq",
+    "name": "Kenneth Haight",
+    "location": "Limgrave",
+    "role": "Next Rightful Ruler of Limgrave"
+  },
+  {
+    "id": "17f69bd66dfl0i2onozxtj8yo2qu5",
+    "name": "Queen Marika",
+    "location": "???",
+    "role": "Ruler of The Lands Between"
+  },
+  {
+    "id": "17f69a1444fl0i2onsit6ui4qbh37",
+    "name": "Knight Diallos",
+    "location": "Roundtable Hold",
+    "role": "Noble"
+  },
+  {
+    "id": "17f69b62be6l0i2oob07ui5payf2ua",
+    "name": "Frustrated Spirit",
+    "location": "Northernmost part of Limgrave",
+    "role": "Benevolent"
+  },
+  {
+    "id": "17f699ebb1fl0i2oobc8fbwg1v80tt",
+    "name": "Twin Maiden Husks",
+    "location": "Roundtable Hold",
+    "role": "Merchant"
+  },
+  {
+    "id": "17f698c6f91l0i2oocga05vyun858c",
+    "name": "Frustrated Spirit",
+    "location": "Northernmost part of Limgrave",
+    "role": "Benevolent"
+  },
+  {
+    "id": "17f6996fdcdl0i2oog5491c2w2vvca",
+    "name": "Gideon Ofnir",
+    "location": "Roundtable Hold",
+    "role": "Lore"
+  },
+  {
+    "id": "17f69a53534l0i2ooknu8c8fgegqyk",
+    "name": "Patches",
+    "location": "Murkwater Cave",
+    "role": "x2 Golden Rune (1), Grovel for Mercy"
+  },
+  {
+    "id": "17f699bcb3bl0i2oow8kivoxqcuy",
+    "name": "Hyetta",
+    "location": "Various Locations",
+    "role": "Finger Maiden"
+  },
+  {
+    "id": "17f698554e5l0i2oowdg1ris9og1e7",
+    "name": "Palm Reader",
+    "location": "Multiple Locations",
+    "role": "Palm Reader"
+  },
+  {
+    "id": "17f69af9513l0i2oowjvkhmdl5ivl",
+    "name": "Nepheli Loux",
+    "location": "Stormveil Castle",
+    "role": "Companion"
+  },
+  {
+    "id": "17f69cd292cl0i2op4nttt4k4nvxs",
+    "name": "Rya",
+    "location": "Volcano Manor",
+    "role": "Scout"
+  },
+  {
+    "id": "17f69e0ee62l0i2op8mg1tq4mnfjjb",
+    "name": "Tanith",
+    "location": "Volcano Manor",
+    "role": "Head of Volcano Manor"
+  },
+  {
+    "id": "17f69f5e08al0i2opgccucgwqfl6n6",
+    "name": "Ranni The Witch",
+    "location": "Ranni's Rise, Three Sisters",
+    "role": " "
+  },
+  {
+    "id": "17f69c47999l0i2opsy0tzdm0h1sa5o",
+    "name": "Gatekeeper Gostoc",
+    "location": "Stormveil Castle Entrance",
+    "role": "Castle Gatekeeper"
+  },
+  {
+    "id": "17f69cd5735l0i2opwywnh7fxq5rof",
+    "name": "Primeval Sorcerer Azur",
+    "location": "Hermit Village, Mt. Gelmir",
+    "role": "Unknown"
+  },
+  {
+    "id": "17f69c760bdl0i2opziqz256a85vp",
+    "name": "Dung Eater",
+    "location": "Roundtable Hold",
+    "role": "Tarnished"
+  },
+  {
+    "id": "17f696fdac2l0i2oq2molwm1a5hu8i",
+    "name": "Preceptor Seluvis",
+    "location": "Seluvis's Rise, Three Sisters",
+    "role": "Preceptor of Sorcerous Arts (Quest NPC)"
+  },
+  {
+    "id": "17f6974b8aal0i2oq6qbzsegb120iw",
+    "name": "Blaidd",
+    "location": "Mistwood Ruins",
+    "role": "Wolfman"
+  },
+  {
+    "id": "17f69b6a938l0i2oqf3un7j999hkw",
+    "name": "Gowry",
+    "location": "Gowry's Shack, Caelid",
+    "role": "Elder Sage"
+  },
+  {
+    "id": "17f69eff01al0i2oqjvfu73rchcwbv",
+    "name": "Millicent",
+    "location": "Church of the Plague",
+    "role": "NPC"
+  },
+  {
+    "id": "17f69958b0al0i2oqm9ou8yw1ogg8",
+    "name": "Bloodhunter Raz",
+    "location": "Seaside Ruins, Stormhill , Stormveil Castle",
+    "role": "Companion"
+  },
+  {
+    "id": "17f699524dal0i2oqpa3288ofa2qpo",
+    "name": "Latenna",
+    "location": "Liurnia of the Lakes, Slumbering Wolf's Shack",
+    "role": "Quest NPC"
+  },
+  {
+    "id": "17f69719075l0i2oqs9tcpu9et7pj",
+    "name": "Albus",
+    "location": "Village of the Albinaurics, Liurnia of the Lakes",
+    "role": "Gives Key Item"
+  },
+  {
+    "id": "17f697ea1d2l0i2or0eyxansf8mnh",
+    "name": "Ensha Of The Royal Remains",
+    "location": "Roundtable Hold",
+    "role": "Lore"
+  },
+  {
+    "id": "17f6990f111l0i2or5bdgg2tnr0u3g",
+    "name": "Shabriri",
+    "location": "Mountaintops of the Giants",
+    "role": "???"
+  },
+  {
+    "id": "17f69e76b78l0i2or85s9z9chrhhg8",
+    "name": "Witch-hunter Jerren",
+    "location": "Redmane Castle plaza Church",
+    "role": "Witch-Hunter"
+  },
+  {
+    "id": "17f69d9a072l0i2org49ab76ad6ehn",
+    "name": "Goldmask",
+    "location": "Altus Plateau, ",
+    "role": "Unknown"
+  },
+  {
+    "id": "17f699f1b44l0i2orwujvu4mfw544",
+    "name": "Blackguard Big Boggart",
+    "location": "Boilprawn Shack",
+    "role": "Blackguard"
+  },
+  {
+    "id": "17f6985df0bl0i2os10gas1pv9n5r",
+    "name": "Three Fingers",
+    "location": "Cathedral of, the Forsaken",
+    "role": "???"
+  },
+  {
+    "id": "17f69c35597l0i2osam7pab26jygzi",
+    "name": "The Great-jar",
+    "location": "Caelid",
+    "role": "NPC"
+  }
+]

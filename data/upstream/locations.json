@@ -1,0 +1,887 @@
+[
+  {
+    "id": "17f69c5a795l0i2m72bjeqbh713r3o",
+    "name": "Bridge Of Sacrifice",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69869a3bl0i2m72p0sbjub568ch",
+    "name": "Church Of Elleh",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69886115l0i2m7307w4njyfhwt5",
+    "name": "Deathtouched Catacombs",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f697ae5eel0i2m74j1houvhsid9m",
+    "name": "Church Of Dragon Communion",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f697edfb9l0i2m79bx2q2xwbbjtl",
+    "name": "Coastal Cave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f6986ad2el0i2m7q7y6gl2myxkh8",
+    "name": "Dragon-burnt Ruins",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69d3927cl0i2m7rak61iym4ek",
+    "name": "Forlorn Hound Evergaol",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f699ae4a0l0i2m7xeop7sxh8y65e",
+    "name": "Fringefolk Hero's Grave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f6981bb8al0i2m7z49o4mk7lid3",
+    "name": "Fort Haight",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f699007d5l0i2m80jyrpycbrgzml",
+    "name": "Divine Tower Of Limgrave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f6961933bl0i2m880lere7qq0dqn",
+    "name": "Gatefront Ruins",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f698e05eel0i2m8lxtk1iuo5pp3",
+    "name": "Limgrave Tunnels",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69bc29c9l0i2m8mjnl6ac43o3sa",
+    "name": "Groveside Cave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69c40d99l0i2m8n9bf756iumzy9",
+    "name": "Minor Erdtree (mistwood)",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f699b601fl0i2m8statevuowxrrb",
+    "name": "Highroad Cave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69d83e6bl0i2m8v6af0i4h94ltb",
+    "name": "Mistwood",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69a3ca6bl0i2m99b111ivu2aamcc",
+    "name": "Mistwood Ruins",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69dedf7al0i2m9b4pz1v8jipl5",
+    "name": "Murkwater Catacombs",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69e79661l0i2m9c3uzzwon60ru",
+    "name": "Murkwater Cave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69f08b12l0i2m9h4uay98lftdb",
+    "name": "Siofra River Well",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69f46160l0i2m9j5wvl4iyb5vv",
+    "name": "Smoldering Church",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69755f06l0i2m9ygrrte15vxjjn",
+    "name": "Stormgate",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69c93d09l0i2m9yixlupxvwoc7r",
+    "name": "Stormfoot Catacombs",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69a317f4l0i2m9zw0s2ceqss32f",
+    "name": "Stormhill",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f6973afc2l0i2ma51e7fflgwsv2m",
+    "name": "Stormhill Evergaol",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69ad0772l0i2ma7gusqx8w2s1ao",
+    "name": "Stormhill Shack",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69e77e65l0i2mam30d45d317ze1a",
+    "name": "Stranded Graveyard",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69c37b1fl0i2manq5puf8m7lj6",
+    "name": "Summonwater Village",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f696f8b63l0i2maq3fi94tgr4s4t",
+    "name": "Third Church Of Marika",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69d5a094l0i2mata8cfyj4ci55t",
+    "name": "Warmaster's Shack",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69d6cc12l0i2maurcz3u35zq1e6",
+    "name": "Waypoint Ruins",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f699556dcl0i2mb8hu2t8gym49k9",
+    "name": "Ailing Village",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69a08d1al0i2mbb18pbuvaqj0nv",
+    "name": "Bridge Of Sacrifice",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f6966a9acl0i2mbedz4xx9r4lz4h",
+    "name": "Callu Baptismal Church",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f698b669el0i2mbhazm5831nokpp",
+    "name": "Church Of Pilgrimage",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69a8e6e3l0i2mbkue80sw8q9e9m",
+    "name": "Castle Morne",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f698f0b5cl0i2mbvii8p3ju2s8p",
+    "name": "Demi-human Forest Ruins",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69a6e7bal0i2mbxtdxxdlkbn228",
+    "name": "Earthbore Cave",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69beb214l0i2mc1tu4e1udh50bg",
+    "name": "Forest Lookout Tower",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69eb484al0i2mc6wcx3of77ezpi",
+    "name": "Impaler's Catacombs",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f699e2f56l0i2mcc0rz6jdgrnd4b",
+    "name": "Fourth Church Of Marika",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f6967f4a6l0i2mcivef17883vmx4",
+    "name": "Minor Erdtree (weeping Peninsula)",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69e439b6l0i2mcjzcnj6kp3he1",
+    "name": "Isolated Merchant's Shack",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69ef93ffl0i2mcqpdy7v0jp2w4t",
+    "name": "Oridys's Rise",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f6981a517l0i2mcvl2m9zjgmsg8q",
+    "name": "Morne Tunnel",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69d80346l0i2md4i5cedghtnq25",
+    "name": "Tombsward Cave",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69f4ffe5l0i2md88ra4eyn71p2h",
+    "name": "Tombsward Ruins",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69e49901l0i2mdbbaoshgf9r6xb",
+    "name": "Tombsward Catacombs",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69f66bd4l0i2mddees047dl1w3",
+    "name": "Tower Of Return",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f698df3ebl0i2mdikdnz45fhyrc7",
+    "name": "Weeping Evergaol",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69aac157l0i2mdq7xv2njkwl739",
+    "name": "Witchbane Ruins",
+    "region": "Weeping Peninsula"
+  },
+  {
+    "id": "17f69eea151l0i2mdvyoq9hes3awih",
+    "name": "Academy Crystal Cave",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69ca396cl0i2mdysgmasljm2zkm",
+    "name": "Academy Gate Town",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69810cebl0i2mdzlqf85vs5362m",
+    "name": "Ainsel River Well",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69f1bf17l0i2me5lh0rinbjahod",
+    "name": "Artist's Shack",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69f3a31bl0i2meai1xfwcvclxod",
+    "name": "Bellum Church",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69c7e27al0i2meh9ln3g7iucc9m",
+    "name": "Bellum Highway",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f699441c2l0i2men3bc9smd0h3jp",
+    "name": "Black Knife Catacombs",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f696fcc61l0i2mesvptc01pvt2k",
+    "name": "Caria Manor",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69671b3cl0i2meu31aoc55gpu6w",
+    "name": "Boilprawn Shack",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69ebf5c7l0i2mf0jf9uvcbi972",
+    "name": "Carian Study Hall",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69b84b61l0i2mfc7u9mll6xzntq",
+    "name": "Chapel Of Anticipation",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f698ad77al0i2mfezbdn6jgn0o9",
+    "name": "Chelona's Rise",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f698e5adfl0i2mffrxjg7ruc39w",
+    "name": "Church Of Inhibition",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69cce4d4l0i2mfhyp49jkapcfro",
+    "name": "Cathedral Of Manus Celes",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69eb0b5al0i2mfvs8tpdxql60r",
+    "name": "Church Of Irith",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69c9c269l0i2mfxzgqbh7ffwoxe",
+    "name": "Church Of Vows",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69da1bd4l0i2mg2rzb8btkku3w",
+    "name": "Converted Fringe Tower",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69d1362al0i2mg4cjo2nkqwii0c",
+    "name": "Converted Tower",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f698f564bl0i2mgkgv52gb259rpo",
+    "name": "Cuckoo's Evergaol",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f699e76bfl0i2mgmm6ms7zuiygi4",
+    "name": "Deep Ainsel Well",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69a9bb63l0i2mgrk6uq0c1hc2ce",
+    "name": "Divine Tower Of Liurnia",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69b8ac92l0i2mgtov87be1r2nqe",
+    "name": "Frenzied Flame Village",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f699dd1c8l0i2mgue4joyaqx4gkf",
+    "name": "Grand Lift Of Dectus",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f6999ba4dl0i2mh3xyke5xw6a3",
+    "name": "Highway Lookout Tower",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69c4fae0l0i2mh89ctxbtq3mamf",
+    "name": "Jarburg",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f696bd5cdl0i2mhe4ogfvk5y4fnk",
+    "name": "Kingsrealm Ruins",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69a91598l0i2mhgmal00xkh3qlq",
+    "name": "Lakeside Crystal Cave",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f6998e8c0l0i2mhji8anu11st2mt",
+    "name": "Laskyar Ruins",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69755ab0l0i2mhph4nhezda1u7a",
+    "name": "Lunar Estate Ruins",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69dacb4bl0i2mhubpixrap5onq",
+    "name": "Malefactor's Evergaol",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69f56f55l0i2mhypmucze7mfrzc",
+    "name": "Minor Erdtree (liurnia Southwest)",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f699944del0i2mi3slb26ih47ryg",
+    "name": "Moonfolk Ruins",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69d966bel0i2mi4tvwhnn8vetm",
+    "name": "Purified Ruins",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f698099f7l0i2miaetoao4rp6xtb",
+    "name": "Ranni's Rise",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69c399c9l0i2mil0mh3d0ps7e7",
+    "name": "Raya Lucaria Crystal Tunnel",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f698a28ecl0i2mipyyaypw22zid",
+    "name": "Renna's Rise",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69bb1acal0i2mitcppzloop1zos",
+    "name": "Revenger's Shack",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f6960e4ffl0i2mixrjbqp5ikjrdf",
+    "name": "Ringleader's Evergaol",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69cc10e6l0i2mj6tb3yh7hepkwb",
+    "name": "Road's End Catacombs",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69993058l0i2mjc4gismv720o76",
+    "name": "Rose Church",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69bb8933l0i2mjfr92f3f404f5",
+    "name": "Royal Grave Evergaol",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f699ac779l0i2mjk3m8nufj4z7fe",
+    "name": "Ruin-strewn Precipice",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f6973267cl0i2mjmwm9vdpxj72u",
+    "name": "Seluvis's Rise",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69c6be62l0i2mjs3roacssjuxza",
+    "name": "Slumbering Wolf's Shack",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69bc3adbl0i2mjzcn0qc9u6t9bk",
+    "name": "Stillwater Cave",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69e1147dl0i2mk2ygww3qoin7ba",
+    "name": "Temple Quarter",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69d3b50fl0i2mk6p38tb210zrrj",
+    "name": "Testu's Rise",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69d66ba9l0i2mkaapoatsule3ab",
+    "name": "The Four Belfries",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f696874a9l0i2mkds3uzk8ol689w",
+    "name": "Village Of The Albinaurics",
+    "region": "Liurnia of the Lakes"
+  },
+  {
+    "id": "17f69a76b08l0i2mkixrtbvunct38",
+    "name": "Abandoned Cave",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69935509l0i2mkr8vjb9f4f94v",
+    "name": "Caelem Ruins",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f696635c6l0i2mkuc7ifimqdqkmw",
+    "name": "Caelid Catacombs",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69759442l0i2mkz2ozy780lp1ia",
+    "name": "Caelid Waypoint Ruins",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f699bc4c7l0i2ml02kvmdi9fv2a",
+    "name": "Aeonia Swamp",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69a15b4al0i2ml8g7pe7tcjmzqk",
+    "name": "Cathedral Of Dragon Communion (caelid)",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69922e0fl0i2mlawpo9eps0kqe",
+    "name": "Church Of The Plague",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69dbb012l0i2mlliso8pvrpw4an",
+    "name": "Fort Gael",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69b4d520l0i2mln0ngtae6zndll",
+    "name": "Gael Tunnel",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69a84cf2l0i2mlr7qukgvew5dt",
+    "name": "Forsaken Ruins",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69d11b53l0i2mlurz5othyaw2yn",
+    "name": "Gaol Cave",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f6981d80cl0i2mlvehfutqz69f7c",
+    "name": "Gowry's Shack",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69d11915l0i2mm7w192hcoirxvu",
+    "name": "Minor Erdtree Catacombs",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69c84fbal0i2mmf3h8h45isx18a",
+    "name": "Redmane Castle",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69654a3dl0i2mmit9ec0mmxu749",
+    "name": "Minor Erdtree (caelid)",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69e4cd2al0i2mmjf7o5gwy7nhbg",
+    "name": "Sellia Crystal Tunnel",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69866cf7l0i2mmw8ziuo0llo4l8",
+    "name": "Sellia Evergaol",
+    "region": "Dragonbarrow"
+  },
+  {
+    "id": "17f69f5508fl0i2mmwfbgtc9rn3v1n",
+    "name": "Sellia Gateway",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69f1cb3fl0i2mn4dwszk6ivxz2",
+    "name": "Sellia, Town Of Sorcery",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69d93dd7l0i2mn5cuabfm8gwktg",
+    "name": "Smoldering Church",
+    "region": "Limgrave"
+  },
+  {
+    "id": "17f69ae9c57l0i2mn6m3td3uzlk5s5",
+    "name": "Shack Of The Rotting",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f697a0d02l0i2mnesx1dup5pg1u9",
+    "name": "Street Of Sages Ruins",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f699e1038l0i2mnmh37d1nfbes3b",
+    "name": "War-dead Catacombs",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69625085l0i2mnshaufkjhe4gok",
+    "name": "Capital Outskirts",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f6993b974l0i2mnzpvp1ultcqrm",
+    "name": "Altus Tunnel",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f697ef5f2l0i2mo0qi9n0ri0imyd",
+    "name": "Dominula, Windmill Village",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69bbcfcal0i2mo7s8f4xhwr53ms",
+    "name": "East Windmill Pasture",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f698e4311l0i2mo8fibxu670d50f",
+    "name": "Golden Lineage Evergaol",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f696d8354l0i2mogg6n9e7genjdc",
+    "name": "Hermit Merchant's Shack",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f697f9642l0i2molzde5v6dex4io",
+    "name": "Altus Tunnel",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69a8e034l0i2moqhosmm855zzp",
+    "name": "Leyndell, Royal Capital",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69b88577l0i2moruy4cidw6hrmb",
+    "name": "Lux Ruins",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f697666c6l0i2mozt3d41gvlk4j8",
+    "name": "Old Altus Tunnel",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f698ef5fbl0i2mp1l1tslwuty9kl",
+    "name": "Minor Erdtree Church",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f698984e2l0i2mpau822kzbjamiq",
+    "name": "Sealed Tunnel",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69b9d414l0i2mpdus3zy2at76rr",
+    "name": "Stormcaller Church",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f6981f5f9l0i2mpl63u29r5fa3te",
+    "name": "The Shaded Castle",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69af90afl0i2mpmxqabln2xz5gc",
+    "name": "Woodfolk Ruins",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69b068c5l0i2mpzgw13xb7y8df",
+    "name": "Corpse-stench Shack",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69d9b8fel0i2mq0i7c25oc8ud27",
+    "name": "Writheblood Ruins",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69d1692bl0i2mq82mmh96k9rqih",
+    "name": "Craftsman's Shack",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69b3cf18l0i2mqdndclk0p7tmvv",
+    "name": "Gelmir Hero's Grave",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69a0735el0i2mqkr50k38bz166b",
+    "name": "Hermit's Shack",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69b78aa3l0i2mqmnrfo05lqjj3",
+    "name": "Fort Laiedd",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69f41641l0i2mqtyu5zlb9bg8xc",
+    "name": "Perfumer's Ruins",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69630438l0i2mqvzhowrb84vyy",
+    "name": "Hermit Village",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69a39644l0i2mr10gkkf9agp8m7",
+    "name": "Sage's Cave",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69a7a523l0i2mr4q3lyuakdiubr",
+    "name": "Second Church Of Marika",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69c28019l0i2mrdirn1c1brqcqj",
+    "name": "Unsightly Catacombs",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f6967952el0i2mrhy8fpgqo0f4hr",
+    "name": "Seethewater Cave",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f696c58e8l0i2mrr461qyqfe46y6",
+    "name": "Wyndham Catacombs",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69e3f410l0i2mrtcr66ff1g9p4h",
+    "name": "Volcano Cave",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f697f4526l0i2mrynoucp5w0m96s",
+    "name": "Wyndham Ruins",
+    "region": "Altus Pleateau"
+  },
+  {
+    "id": "17f69b97ce8l0i2ms4ikyh4h5oxhve",
+    "name": "Bestial Sanctum",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69a52fdal0i2mscdgudt5b894m5",
+    "name": "Dragonbarrow Cave",
+    "region": "Dragonbarrow"
+  },
+  {
+    "id": "17f69bd98abl0i2msf1hgi0pk8vssd",
+    "name": "Divine Tower Of Caelid",
+    "region": "Caelid"
+  },
+  {
+    "id": "17f69bc1846l0i2msgjjzgo3z9kwjh",
+    "name": "Deep Siofra Well",
+    "region": "Dragonbarrow"
+  },
+  {
+    "id": "17f69f6581cl0i2msjrduyrq5lzcub",
+    "name": "Fort Faroth",
+    "region": "Dragonbarrow"
+  },
+  {
+    "id": "17f696f226dl0i2msytg87r3uaqkyd",
+    "name": "Lenne's Rise",
+    "region": "Dragonbarrow"
+  },
+  {
+    "id": "17f69dd1443l0i2mt2e1wsljt8hffr",
+    "name": "Isolated Merchant's Shack (dragonbarrow)",
+    "region": "Dragonbarrow"
+  },
+  {
+    "id": "17f697b13fal0i2mt2gmldy864m2zj",
+    "name": "Castle Sol",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f6986804dl0i2mt48ydii28an8a",
+    "name": "Church Of Repose",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69d071acl0i2mtig4ni1eefzjg",
+    "name": "Forge Of The Giants",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f697bdfffl0i2mtpen4salledwa",
+    "name": "Grand Lift Of Rold",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f698657ecl0i2mtswf7rb3f7u2l7",
+    "name": "Guardians' Garrison",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f697036fbl0i2mtt1y66q5foxdq",
+    "name": "Giant-conquering Hero's Grave",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f6986c248l0i2mud577bnmdfh8w",
+    "name": "Shack Of The Lofty",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69a25d31l0i2muhzfvabyqxiv2v",
+    "name": "Spiritcaller's Cave",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f695f2681l0i2muinpxbngca38up",
+    "name": "Stargazer's Ruins",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69efba83l0i2mv5car0cnamiotl",
+    "name": "Zamor Ruins",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69b5132al0i2mvbu1p0fqlhzbjb",
+    "name": "Consecrated Snowfield Catacombs",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f697fe6e2l0i2mvhwmvjnk9ek1hb",
+    "name": "Apostate Derelict",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f6994064fl0i2mvrzl0ze8veus3",
+    "name": "Heretical Rise",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69a00a08l0i2mvsxha1qmkpwnqb",
+    "name": "Hidden Path To The Haligtree",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69ea8ac4l0i2mw3htuchm8ubrxk",
+    "name": "Yelough Anix Ruins",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f699f31b0l0i2mw5av5ayol4jqjn",
+    "name": "Ordina, Liturgical Town",
+    "region": "Mountaintops of the Giants"
+  },
+  {
+    "id": "17f69dfae57l0i2mwa08uny35m2uqf",
+    "name": "Yelough Anix Tunnel",
+    "region": "Mountaintops of the Giants"
+  }
+]

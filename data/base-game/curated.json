@@ -1,0 +1,708 @@
+[
+  {
+    "nameKo": "림그레이브",
+    "nameEn": "Limgrave",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "1–30",
+      "weaponLevel": "일반 +0–3",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "흐느낌의 반도",
+    "nameEn": "Weeping Peninsula",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "20–40",
+      "weaponLevel": "일반 +3–6",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "호수의 리에니에",
+    "nameEn": "Liurnia of the Lakes",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "40–60",
+      "weaponLevel": "일반 +6–12",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "케일리드",
+    "nameEn": "Caelid",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "60–80",
+      "weaponLevel": "일반 +10–15",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "알터 고원",
+    "nameEn": "Altus Plateau",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "60–90",
+      "weaponLevel": "일반 +12–18",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "겔미어 화산",
+    "nameEn": "Mt. Gelmir",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "80–100",
+      "weaponLevel": "일반 +15–20",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "거인들의 산령",
+    "nameEn": "Mountaintops of the Giants",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "100–120",
+      "weaponLevel": "일반 +20–25",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "미켈라의 성수",
+    "nameEn": "Miquella's Haligtree",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "120–150",
+      "weaponLevel": "일반 +25 / 색 잃은 +10",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "파름 아즈라",
+    "nameEn": "Crumbling Farum Azula",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "110–140",
+      "weaponLevel": "일반 +25 / 색 잃은 +10",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "시프라 강",
+    "nameEn": "Siofra River",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "50–70",
+      "weaponLevel": "일반 +8–12",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "영원한 도읍 노크론",
+    "nameEn": "Nokron, Eternal City",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "70–90",
+      "weaponLevel": "일반 +12–18",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "영원한 도읍 녹스텔라",
+    "nameEn": "Nokstella, Eternal City",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "80–100",
+      "weaponLevel": "일반 +15–20",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "부패한 호수",
+    "nameEn": "Lake of Rot",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "80–100",
+      "weaponLevel": "일반 +15–20",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "월광의 제단",
+    "nameEn": "Moonlight Altar",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "90–120",
+      "weaponLevel": "일반 +18–25",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "모그윈 왕조",
+    "nameEn": "Mohgwyn Palace",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "100–140",
+      "weaponLevel": "일반 +20–25",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "성수 최하층",
+    "nameEn": "Haligtree Roots",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {
+      "level": "120–150",
+      "weaponLevel": "최종 강화",
+      "note": "권장 수치는 개인 플레이 가이드이며 공식 난이도 지표가 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "주요 지역"
+  },
+  {
+    "nameKo": "원탁",
+    "nameEn": "Roundtable Hold",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "거점"
+  },
+  {
+    "nameKo": "스톰빌 성",
+    "nameEn": "Stormveil Castle",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "레거시 던전"
+  },
+  {
+    "nameKo": "마술학원 레아 루카리아",
+    "nameEn": "Academy of Raya Lucaria",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "레거시 던전"
+  },
+  {
+    "nameKo": "성수 버팀목 에브레펠",
+    "nameEn": "Elphael, Brace of the Haligtree",
+    "category": "locations",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "레거시 던전"
+  },
+  {
+    "nameKo": "끔찍한 흉조 멀기트",
+    "nameEn": "Margit, the Fell Omen",
+    "category": "bosses",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "스톰빌 성 입구",
+    "details": {
+      "region": "림그레이브",
+      "optional": true,
+      "spiritSummon": true,
+      "tips": "연속 공격이 끝난 뒤 짧게 반격합니다. 멀기트의 구속구를 활용할 수 있습니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "만월의 여왕 레날라",
+    "nameEn": "Rennala, Queen of the Full Moon",
+    "category": "bosses",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "레아 루카리아 대서고",
+    "details": {
+      "region": "호수의 리에니에",
+      "optional": true,
+      "phases": {
+        "1페이즈": "보호막과 연결된 학생을 찾아 공격합니다.",
+        "2페이즈": "마술과 소환 공격 사이에 거리를 좁힙니다."
+      }
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "흉조의 왕 모르고트",
+    "nameEn": "Morgott, the Omen King",
+    "category": "bosses",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "도읍 로데일의 엘데의 왕좌",
+    "details": {
+      "required": true
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true
+  },
+  {
+    "nameKo": "암흑의 부산물 아스테르",
+    "nameEn": "Astel, Naturalborn of the Void",
+    "category": "bosses",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "부패한 호수 대회랑 너머",
+    "details": {
+      "optional": true
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true
+  },
+  {
+    "nameKo": "부패의 여신의 추억",
+    "nameEn": "Remembrance of the Rot Goddess",
+    "category": "items",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "말레니아 처치",
+    "details": {
+      "effect": "원탁의 엔야에게서 말레니아의 의수도 또는 붉은 에오니아로 교환합니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": true,
+    "subtype": "추억"
+  },
+  {
+    "nameKo": "마녀 라니의 퀘스트",
+    "nameEn": "Ranni Quest",
+    "category": "quests",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "라니와 협력하는 진행 과정을 단계별로 기록합니다. 단계의 결말은 스포일러 설정으로 숨길 수 있습니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "엔딩 관련 퀘스트"
+  },
+  {
+    "nameKo": "밀리센트의 퀘스트",
+    "nameEn": "Millicent Quest",
+    "category": "quests",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "케일리드에서 성수까지 이어지는 밀리센트의 이동 경로를 기록합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "NPC 퀘스트"
+  },
+  {
+    "nameKo": "철권 알렉산더의 퀘스트",
+    "nameEn": "Alexander Quest",
+    "category": "quests",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "여러 지역에서 알렉산더를 만나고 함께 전투하는 여정입니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false,
+    "subtype": "NPC 퀘스트"
+  },
+  {
+    "nameKo": "출혈",
+    "nameEn": "Blood Loss",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "출혈 축적이 임계치에 도달하면 큰 피해를 줍니다. 면역인 적도 있습니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "부패",
+    "nameEn": "Scarlet Rot",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "부패 축적 후 지속 피해를 받습니다. 부패를 치유하는 아이템이나 기도로 대응합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "동상",
+    "nameEn": "Frostbite",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "동상 축적 후 피해와 방어 관련 약화 효과가 발생합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "지력",
+    "nameEn": "Intelligence",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "일부 무기와 마술의 요구 능력치 및 보정에 영향을 줍니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "강인도",
+    "nameEn": "Poise",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "공격을 받았을 때 동작이 중단되는 정도에 관여합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "장비 중량",
+    "nameEn": "Equip Load",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "장비 중량 비율에 따라 구르기 단계가 달라집니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "패리",
+    "nameEn": "Parry",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "일부 공격을 튕겨 적을 무너뜨리고 치명타 기회를 만듭니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "가드 카운터",
+    "nameEn": "Guard Counter",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "방어 직후 강공격으로 반격합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "일반 강화",
+    "nameEn": "Standard Upgrade",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "일반 단석과 고룡의 단석으로 최대 +25까지 강화합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "색 잃은 단석 강화",
+    "nameEn": "Somber Upgrade",
+    "category": "systems",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "색 잃은 단석과 색 잃은 고룡의 단석으로 최대 +10까지 강화합니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "처음 떠나는 빛바랜 자",
+    "nameEn": "First Journey",
+    "category": "progression",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "림그레이브 탐험 → 흐느낌의 반도 → 스톰빌 성 → 리에니에 순서로 시작해 보세요.",
+    "acquisition": "",
+    "details": {
+      "note": "추천 순서이며 반드시 따라야 하는 진행 경로는 아닙니다."
+    },
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "인도의 시작",
+    "nameEn": "The First Step",
+    "category": "graces",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "관문 앞",
+    "nameEn": "Gatefront",
+    "category": "graces",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "엘레의 교회 축복",
+    "nameEn": "Church of Elleh Site of Grace",
+    "category": "graces",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "성수 최하층 축복",
+    "nameEn": "Haligtree Roots Site of Grace",
+    "category": "graces",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": true
+  },
+  {
+    "nameKo": "단석",
+    "nameEn": "Smithing Stone",
+    "category": "materials",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "일반 무기 강화를 위한 재료입니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "색 잃은 단석",
+    "nameEn": "Somber Smithing Stone",
+    "category": "materials",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "특수 무기 강화를 위한 재료입니다.",
+    "acquisition": "",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": false
+  },
+  {
+    "nameKo": "엔야의 추억 교환",
+    "nameEn": "Enia Remembrance Exchange",
+    "category": "shops",
+    "content_type": "base_game",
+    "verification_status": "needs_review",
+    "summary": "보스의 추억을 장비 또는 마법으로 교환합니다.",
+    "acquisition": "원탁",
+    "details": {},
+    "tags": [],
+    "aliases": [],
+    "spoiler": true
+  }
+]

@@ -1,0 +1,83 @@
+generator client {
+  provider = "prisma-client-js"
+  engineType = "client"
+}
+datasource db {
+  provider = "sqlite"
+  url      = "file:./archive.db"
+}
+model Entry {
+  id                 String @id
+  nameKo             String
+  nameEn             String
+  category           String
+  subtype            String @default("")
+  content_type       String
+  verification_status String @default("needs_review")
+  summary            String @default("")
+  acquisition        String @default("")
+  aliases            String @default("[]")
+  tags               String @default("[]")
+  details            String @default("{}")
+  imageUrl           String?
+  imageSource        String?
+  spoiler            Boolean @default(false)
+  translationPending Boolean @default(false)
+  searchText         String
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+  outgoing           Relation[] @relation("from")
+  incoming           Relation[] @relation("to")
+  sources            EntrySource[]
+  questSteps         QuestStep[]
+  upgrades           WeaponUpgrade[]
+  @@index([category, content_type])
+  @@index([verification_status])
+}
+model Relation {
+  id      Int @id @default(autoincrement())
+  fromId  String
+  toId    String
+  label   String
+  from    Entry @relation("from", fields: [fromId], references: [id], onDelete: Cascade)
+  to      Entry @relation("to", fields: [toId], references: [id], onDelete: Cascade)
+  @@unique([fromId, toId, label])
+}
+model EntrySource {
+  id          Int @id @default(autoincrement())
+  entryId     String
+  title       String
+  url         String
+  note        String @default("")
+  checkedAt   DateTime?
+  entry       Entry @relation(fields: [entryId], references: [id], onDelete: Cascade)
+  @@unique([entryId, url])
+}
+model QuestStep {
+  id            String @id
+  questId       String
+  position      Int
+  title         String
+  locationId    String?
+  npcId         String?
+  requiredItems String @default("[]")
+  prerequisites String @default("")
+  nextStepId    String?
+  failure       String @default("")
+  spoiler       Boolean @default(false)
+  quest         Entry @relation(fields: [questId], references: [id], onDelete: Cascade)
+  @@unique([questId, position])
+}
+model WeaponUpgrade {
+  id       Int @id @default(autoincrement())
+  entryId  String
+  level    Int
+  affinity String @default("standard")
+  attack   String
+  scaling  String
+  entry    Entry @relation(fields: [entryId], references: [id], onDelete: Cascade)
+  @@unique([entryId, level, affinity])
+}
+model SeedRegistry {
+  id String @id
+}

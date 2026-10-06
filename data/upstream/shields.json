@@ -1,0 +1,4918 @@
+[
+  {
+    "id": "17f69c62fe8l0i124u8fi4nc7dbfbf",
+    "name": "Buckler",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 68
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 58
+      },
+      {
+        "name": "Mag",
+        "amount": 28
+      },
+      {
+        "name": "Fire",
+        "amount": 28
+      },
+      {
+        "name": "Ligt",
+        "amount": 14
+      },
+      {
+        "name": "Holy",
+        "amount": 28
+      },
+      {
+        "name": "Boost",
+        "amount": 30
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      },
+      {
+        "name": "Dex",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      },
+      {
+        "name": "Dex",
+        "amount": 13
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 1.5
+  },
+  {
+    "id": "17f694b8615l0i124uyj41jnmpvitp",
+    "name": "Perfumer's Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 67
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 61
+      },
+      {
+        "name": "Mag",
+        "amount": 33
+      },
+      {
+        "name": "Fire",
+        "amount": 33
+      },
+      {
+        "name": "Ligt",
+        "amount": 14
+      },
+      {
+        "name": "Holy",
+        "amount": 33
+      },
+      {
+        "name": "Boost",
+        "amount": 30
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": ""
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 1.5
+  },
+  {
+    "id": "17f69b5141al0i124v8pxr1ks1ekij",
+    "name": "Man-serpent's Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 70
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 65
+      },
+      {
+        "name": "Mag",
+        "amount": 30
+      },
+      {
+        "name": "Fire",
+        "amount": 45
+      },
+      {
+        "name": "Ligt",
+        "amount": 15
+      },
+      {
+        "name": "Holy",
+        "amount": 30
+      },
+      {
+        "name": "Boost",
+        "amount": 32
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 2
+  },
+  {
+    "id": "17f69a7085fl0i124y1772hsc2fore",
+    "name": "Pillory Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 71
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 60
+      },
+      {
+        "name": "Mag",
+        "amount": 42
+      },
+      {
+        "name": "Fire",
+        "amount": 21
+      },
+      {
+        "name": "Ligt",
+        "amount": 36
+      },
+      {
+        "name": "Holy",
+        "amount": 42
+      },
+      {
+        "name": "Boost",
+        "amount": 33
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f6976985el0i124znputjytfizsr",
+    "name": "Rickety Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 70
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 50
+      },
+      {
+        "name": "Mag",
+        "amount": 25
+      },
+      {
+        "name": "Fire",
+        "amount": 20
+      },
+      {
+        "name": "Ligt",
+        "amount": 30
+      },
+      {
+        "name": "Holy",
+        "amount": 30
+      },
+      {
+        "name": "Boost",
+        "amount": 25
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 1
+  },
+  {
+    "id": "17f693d58ael0i125pgfsn2zo4078i",
+    "name": "Beastman's Jar-shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 71
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 95
+      },
+      {
+        "name": "Mag",
+        "amount": 30
+      },
+      {
+        "name": "Fire",
+        "amount": 55
+      },
+      {
+        "name": "Ligt",
+        "amount": 60
+      },
+      {
+        "name": "Holy",
+        "amount": 55
+      },
+      {
+        "name": "Boost",
+        "amount": 48
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": ""
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 5
+  },
+  {
+    "id": "17f69c6b08dl0i125phehezloe6mgp",
+    "name": "Red Thorn Roundshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 70
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 58
+      },
+      {
+        "name": "Mag",
+        "amount": 30
+      },
+      {
+        "name": "Fire",
+        "amount": 40
+      },
+      {
+        "name": "Ligt",
+        "amount": 35
+      },
+      {
+        "name": "Holy",
+        "amount": 35
+      },
+      {
+        "name": "Boost",
+        "amount": 32
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 1.5
+  },
+  {
+    "id": "17f6976f39fl0i125rvey7g31uyix",
+    "name": "Riveted Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 72
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 64
+      },
+      {
+        "name": "Mag",
+        "amount": 38
+      },
+      {
+        "name": "Fire",
+        "amount": 29
+      },
+      {
+        "name": "Ligt",
+        "amount": 22
+      },
+      {
+        "name": "Holy",
+        "amount": 42
+      },
+      {
+        "name": "Boost",
+        "amount": 35
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 2
+  },
+  {
+    "id": "17f69cbb4afl0i125s3vg05tmg3h9",
+    "name": "Scripture Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 70
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 58
+      },
+      {
+        "name": "Mag",
+        "amount": 38
+      },
+      {
+        "name": "Fire",
+        "amount": 20
+      },
+      {
+        "name": "Ligt",
+        "amount": 35
+      },
+      {
+        "name": "Holy",
+        "amount": 43
+      },
+      {
+        "name": "Boost",
+        "amount": 32
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 1.5
+  },
+  {
+    "id": "17f69652424l0i125urgh9o09mhavm",
+    "name": "Blue-white Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 72
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 63
+      },
+      {
+        "name": "Mag",
+        "amount": 42
+      },
+      {
+        "name": "Fire",
+        "amount": 33
+      },
+      {
+        "name": "Ligt",
+        "amount": 19
+      },
+      {
+        "name": "Holy",
+        "amount": 38
+      },
+      {
+        "name": "Boost",
+        "amount": 35
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 2
+  },
+  {
+    "id": "17f69c01371l0i126fsrmmhmt78m7",
+    "name": "Rift Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 70
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 66
+      },
+      {
+        "name": "Mag",
+        "amount": 30
+      },
+      {
+        "name": "Fire",
+        "amount": 35
+      },
+      {
+        "name": "Ligt",
+        "amount": 15
+      },
+      {
+        "name": "Holy",
+        "amount": 35
+      },
+      {
+        "name": "Boost",
+        "amount": 37
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 2
+  },
+  {
+    "id": "17f69b10c2el0i126k1rlvenfih79r",
+    "name": "Iron Roundshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 74
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 71
+      },
+      {
+        "name": "Mag",
+        "amount": 38
+      },
+      {
+        "name": "Fire",
+        "amount": 38
+      },
+      {
+        "name": "Ligt",
+        "amount": 16
+      },
+      {
+        "name": "Holy",
+        "amount": 38
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 3
+  },
+  {
+    "id": "17f69bd6428l0i126mo49q97n1both",
+    "name": "Smoldering Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 58
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 37
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 69
+      },
+      {
+        "name": "Mag",
+        "amount": 36
+      },
+      {
+        "name": "Fire",
+        "amount": 49
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 36
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str"
+      },
+      {
+        "name": "Dex"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      },
+      {
+        "name": "Dex",
+        "amount": 9
+      }
+    ],
+    "category": "Small Shields",
+    "weight": 3
+  },
+  {
+    "id": "17f698a4b7bl0i126nb4s0xsp2lnfw",
+    "name": "Gilded Iron Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 74
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 69
+      },
+      {
+        "name": "Mag",
+        "amount": 38
+      },
+      {
+        "name": "Fire",
+        "amount": 35
+      },
+      {
+        "name": "Ligt",
+        "amount": 14
+      },
+      {
+        "name": "Holy",
+        "amount": 49
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 3
+  },
+  {
+    "id": "17f69b12e1bl0i126nysn2v09nsd3",
+    "name": "Ice Crest Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 74
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 68
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 39
+      },
+      {
+        "name": "Ligt",
+        "amount": 16
+      },
+      {
+        "name": "Holy",
+        "amount": 33
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 9
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 3
+  },
+  {
+    "id": "17f6942deffl0i1271bdbp91snfovh",
+    "name": "Spiralhorn Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 75
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 59
+      },
+      {
+        "name": "Mag",
+        "amount": 33
+      },
+      {
+        "name": "Fire",
+        "amount": 37
+      },
+      {
+        "name": "Ligt",
+        "amount": 38
+      },
+      {
+        "name": "Holy",
+        "amount": 30
+      },
+      {
+        "name": "Boost",
+        "amount": 29
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str"
+      },
+      {
+        "name": "Dex"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      },
+      {
+        "name": "Dex",
+        "amount": 10
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 2
+  },
+  {
+    "id": "17f6985902bl0i127b1nqhoj9b4nhl",
+    "name": "Marred Leather Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 75
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 36
+      },
+      {
+        "name": "Ligt",
+        "amount": 45
+      },
+      {
+        "name": "Holy",
+        "amount": 45
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3
+  },
+  {
+    "id": "17f696cb3bal0i127cn7tiavj7t1u",
+    "name": "Marred Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 78
+      },
+      {
+        "name": "Mag",
+        "amount": 52
+      },
+      {
+        "name": "Fire",
+        "amount": 27
+      },
+      {
+        "name": "Ligt",
+        "amount": 50
+      },
+      {
+        "name": "Holy",
+        "amount": 49
+      },
+      {
+        "name": "Boost",
+        "amount": 41
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4
+  },
+  {
+    "id": "17f694927d7l0i127ng35ra4v5k4gn",
+    "name": "Coil Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 92
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 52
+      },
+      {
+        "name": "Mag",
+        "amount": 38
+      },
+      {
+        "name": "Fire",
+        "amount": 28
+      },
+      {
+        "name": "Ligt",
+        "amount": 34
+      },
+      {
+        "name": "Holy",
+        "amount": 35
+      },
+      {
+        "name": "Boost",
+        "amount": 22
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "E"
+      },
+      {
+        "name": "Dex",
+        "scaling": ""
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      },
+      {
+        "name": "Dex",
+        "amount": 10
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 1.5
+  },
+  {
+    "id": "17f6967bb2bl0i127q8x98oklbecj",
+    "name": "Kite Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 78
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 47
+      },
+      {
+        "name": "Fire",
+        "amount": 47
+      },
+      {
+        "name": "Ligt",
+        "amount": 33
+      },
+      {
+        "name": "Holy",
+        "amount": 47
+      },
+      {
+        "name": "Boost",
+        "amount": 47
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 12
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4.5
+  },
+  {
+    "id": "17f698ac740l0i127wziv2s11fd2c",
+    "name": "Banished Knight's Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 81
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 57
+      },
+      {
+        "name": "Ligt",
+        "amount": 31
+      },
+      {
+        "name": "Holy",
+        "amount": 48
+      },
+      {
+        "name": "Boost",
+        "amount": 52
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 14
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 6
+  },
+  {
+    "id": "17f69ce5e4cl0i128b0nivmu8x7jg",
+    "name": "Albinauric Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 78
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 61
+      },
+      {
+        "name": "Fire",
+        "amount": 42
+      },
+      {
+        "name": "Ligt",
+        "amount": 23
+      },
+      {
+        "name": "Holy",
+        "amount": 47
+      },
+      {
+        "name": "Boost",
+        "amount": 42
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 11
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4.5
+  },
+  {
+    "id": "17f6987cd26l0i128fmzfvt6grfjsp",
+    "name": "Sun Realm Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 74
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 85
+      },
+      {
+        "name": "Mag",
+        "amount": 44
+      },
+      {
+        "name": "Fire",
+        "amount": 27
+      },
+      {
+        "name": "Ligt",
+        "amount": 40
+      },
+      {
+        "name": "Holy",
+        "amount": 56
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f6970052fl0i128q30d2avtlnbrrf",
+    "name": "Silver Mirrorshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 70
+      },
+      {
+        "name": "Mag",
+        "amount": 45
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 89
+      },
+      {
+        "name": "Fire",
+        "amount": 31
+      },
+      {
+        "name": "Ligt",
+        "amount": 19
+      },
+      {
+        "name": "Holy",
+        "amount": 27
+      },
+      {
+        "name": "Boost",
+        "amount": 42
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      },
+      {
+        "name": "Dex",
+        "scaling": "?"
+      },
+      {
+        "name": "Int",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 12
+      },
+      {
+        "name": "Dex",
+        "amount": 10
+      },
+      {
+        "name": "Int",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f6988b72dl0i128vmcj5b7a5j1e9",
+    "name": "Round Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 83
+      },
+      {
+        "name": "Mag",
+        "amount": 50
+      },
+      {
+        "name": "Fire",
+        "amount": 37
+      },
+      {
+        "name": "Ligt",
+        "amount": 43
+      },
+      {
+        "name": "Holy",
+        "amount": 50
+      },
+      {
+        "name": "Boost",
+        "amount": 42
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4
+  },
+  {
+    "id": "17f6948dfb1l0i1298n92tg7459mbg",
+    "name": "Scorpion Kite Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 78
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 45
+      },
+      {
+        "name": "Fire",
+        "amount": 46
+      },
+      {
+        "name": "Ligt",
+        "amount": 33
+      },
+      {
+        "name": "Holy",
+        "amount": 50
+      },
+      {
+        "name": "Boost",
+        "amount": 47
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 11
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4.5
+  },
+  {
+    "id": "17f698aad3fl0i129kcpcnkgwlznm",
+    "name": "Twinbird Kite Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 78
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 50
+      },
+      {
+        "name": "Ligt",
+        "amount": 28
+      },
+      {
+        "name": "Holy",
+        "amount": 35
+      },
+      {
+        "name": "Boost",
+        "amount": 49
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 12
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4.5
+  },
+  {
+    "id": "17f6966bef4l0i129o1blgktqip69s",
+    "name": "Blue-gold Kite Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 80
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 47
+      },
+      {
+        "name": "Fire",
+        "amount": 53
+      },
+      {
+        "name": "Ligt",
+        "amount": 35
+      },
+      {
+        "name": "Holy",
+        "amount": 45
+      },
+      {
+        "name": "Boost",
+        "amount": 47
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 12
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 5
+  },
+  {
+    "id": "17f69beaf5al0i12ae69s49g5aaaea",
+    "name": "Brass Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 84
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 55
+      },
+      {
+        "name": "Fire",
+        "amount": 59
+      },
+      {
+        "name": "Ligt",
+        "amount": 39
+      },
+      {
+        "name": "Holy",
+        "amount": 54
+      },
+      {
+        "name": "Boost",
+        "amount": 56
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 16
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 7
+  },
+  {
+    "id": "17f6996caf5l0i12afnpkuzhuzo9o",
+    "name": "Shield Of The Guilty",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 75
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 62
+      },
+      {
+        "name": "Mag",
+        "amount": 35
+      },
+      {
+        "name": "Fire",
+        "amount": 35
+      },
+      {
+        "name": "Ligt",
+        "amount": 30
+      },
+      {
+        "name": "Holy",
+        "amount": 35
+      },
+      {
+        "name": "Boost",
+        "amount": 29
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Small Shield",
+    "weight": 2
+  },
+  {
+    "id": "17f699d7257l0i12ai52ozxwx6ewwi",
+    "name": "Great Turtle Shell",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 81
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 44
+      },
+      {
+        "name": "Fire",
+        "amount": 39
+      },
+      {
+        "name": "Ligt",
+        "amount": 43
+      },
+      {
+        "name": "Holy",
+        "amount": 46
+      },
+      {
+        "name": "Boost",
+        "amount": 48
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 14
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 5.5
+  },
+  {
+    "id": "17f6942eeabl0i12apjrp14m98cxmg",
+    "name": "Carian Knight's Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 63
+      },
+      {
+        "name": "Mag63",
+        "amount": null
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 58
+      },
+      {
+        "name": "Fire",
+        "amount": 28
+      },
+      {
+        "name": "Ligt",
+        "amount": 19
+      },
+      {
+        "name": "Holy",
+        "amount": 54
+      },
+      {
+        "name": "Boost",
+        "amount": 47
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "STR",
+        "scaling": "D"
+      },
+      {
+        "name": "INT",
+        "scaling": "D"
+      },
+      {
+        "name": ""
+      },
+      {
+        "name": ""
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "STR",
+        "amount": 10
+      },
+      {
+        "name": "DEX",
+        "amount": 10
+      },
+      {
+        "name": "INT",
+        "amount": 15
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 4.5
+  },
+  {
+    "id": "17f699a214fl0i12beelfraiymmf7",
+    "name": "Horse Crest Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 81
+      },
+      {
+        "name": "Mag",
+        "amount": 50
+      },
+      {
+        "name": "Fire",
+        "amount": 32
+      },
+      {
+        "name": "Ligt",
+        "amount": 43
+      },
+      {
+        "name": "Holy",
+        "amount": 42
+      },
+      {
+        "name": "Boost",
+        "amount": 38
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f69723a6dl0i12bhd8qm1rkekq4w",
+    "name": "Candletree Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 82
+      },
+      {
+        "name": "Mag",
+        "amount": 42
+      },
+      {
+        "name": "Fire",
+        "amount": 32
+      },
+      {
+        "name": "Ligt",
+        "amount": 50
+      },
+      {
+        "name": "Holy",
+        "amount": 43
+      },
+      {
+        "name": "Boost",
+        "amount": 39
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f69b8ad9fl0i12bhsus3gi193fg",
+    "name": "Large Leather Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 75
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 36
+      },
+      {
+        "name": "Ligt",
+        "amount": 45
+      },
+      {
+        "name": "Holy",
+        "amount": 45
+      },
+      {
+        "name": "Boost",
+        "amount": 40
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3
+  },
+  {
+    "id": "17f698d0e0bl0i12bjdv825l4x33d",
+    "name": "Flame Crest Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 83
+      },
+      {
+        "name": "Mag",
+        "amount": 43
+      },
+      {
+        "name": "Fire",
+        "amount": 32
+      },
+      {
+        "name": "Ligt",
+        "amount": 42
+      },
+      {
+        "name": "Holy",
+        "amount": 50
+      },
+      {
+        "name": "Boost",
+        "amount": 39
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f694f969el0i12bq44jy1iwmun1y",
+    "name": "Hawk Crest Wooden Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 76
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 85
+      },
+      {
+        "name": "Mag",
+        "amount": 44
+      },
+      {
+        "name": "Fire",
+        "amount": 32
+      },
+      {
+        "name": "Ligt",
+        "amount": 44
+      },
+      {
+        "name": "Holy",
+        "amount": 44
+      },
+      {
+        "name": "Boost",
+        "amount": 38
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 8
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f69710d06l0i12cez6ml1ut0n7cs",
+    "name": "Beast Crest Heater Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 77
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 50
+      },
+      {
+        "name": "Fire",
+        "amount": 43
+      },
+      {
+        "name": "Ligt",
+        "amount": 32
+      },
+      {
+        "name": "Holy",
+        "amount": 42
+      },
+      {
+        "name": "Boost",
+        "amount": 44
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f69654c0bl0i12chkv2olyhv4kt",
+    "name": "Red Crest Heater Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 77
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 42
+      },
+      {
+        "name": "Fire",
+        "amount": 50
+      },
+      {
+        "name": "Ligt",
+        "amount": 32
+      },
+      {
+        "name": "Holy",
+        "amount": 43
+      },
+      {
+        "name": "Boost",
+        "amount": 43
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f69c34ab1l0i12cmtzhluyza2vbd",
+    "name": "Eclipse Crest Heater Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 77
+      },
+      {
+        "name": "Mag",
+        "amount": null
+      },
+      {
+        "name": "Fire",
+        "amount": null
+      },
+      {
+        "name": "Ligt",
+        "amount": null
+      },
+      {
+        "name": "Holy",
+        "amount": null
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 44
+      },
+      {
+        "name": "Fire",
+        "amount": 44
+      },
+      {
+        "name": "Ligt",
+        "amount": 37
+      },
+      {
+        "name": "Holy",
+        "amount": 44
+      },
+      {
+        "name": "Boost",
+        "amount": 46
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Strength",
+        "scaling": "-"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Strength",
+        "amount": null
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f69722576l0i12cnfqtct2uo1lqi",
+    "name": "Blue Crest Heater Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 77
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 43
+      },
+      {
+        "name": "Fire",
+        "amount": 42
+      },
+      {
+        "name": "Ligt",
+        "amount": 32
+      },
+      {
+        "name": "Holy",
+        "amount": 50
+      },
+      {
+        "name": "Boost",
+        "amount": 44
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f693c5d25l0i12cqwc17w5od5uh",
+    "name": "Inverted Hawk Heater Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 77
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 49
+      },
+      {
+        "name": "Ligt",
+        "amount": 34
+      },
+      {
+        "name": "Holy",
+        "amount": 49
+      },
+      {
+        "name": "Boost",
+        "amount": 44
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f694b8cc1l0i12d7wmnsvn9wams",
+    "name": "Heater Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 77
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 43
+      },
+      {
+        "name": "Fire",
+        "amount": 43
+      },
+      {
+        "name": "Ligt",
+        "amount": 27
+      },
+      {
+        "name": "Holy",
+        "amount": 43
+      },
+      {
+        "name": "Boost",
+        "amount": 38
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3.5
+  },
+  {
+    "id": "17f698cf256l0i12dbf0mgqicx93p",
+    "name": "Black Leather Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 75
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 79
+      },
+      {
+        "name": "Mag",
+        "amount": 45
+      },
+      {
+        "name": "Fire",
+        "amount": 31
+      },
+      {
+        "name": "Ligt",
+        "amount": 46
+      },
+      {
+        "name": "Holy",
+        "amount": 47
+      },
+      {
+        "name": "Boost",
+        "amount": 37
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 10
+      }
+    ],
+    "category": "Medium Shield",
+    "weight": 3
+  },
+  {
+    "id": "17f693c793el0i12deqfa24mgi3ik7",
+    "name": "Dragon Towershield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 115
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 61
+      },
+      {
+        "name": "Fire",
+        "amount": 67
+      },
+      {
+        "name": "Ligt",
+        "amount": 55
+      },
+      {
+        "name": "Holy",
+        "amount": 64
+      },
+      {
+        "name": "Boost",
+        "amount": 64
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 30
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 17.5
+  },
+  {
+    "id": "17f695a9c70l0i12dg13mf7v9clac",
+    "name": "Crucible Hornshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 147
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 51
+      },
+      {
+        "name": "Fire",
+        "amount": 50
+      },
+      {
+        "name": "Ligt",
+        "amount": 46
+      },
+      {
+        "name": "Holy",
+        "amount": 64
+      },
+      {
+        "name": "Boost",
+        "amount": 58
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 26
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 11.5
+  },
+  {
+    "id": "17f6998f8b8l0i12dhelzp1oi1uyv",
+    "name": "Distinguished Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 112
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 65
+      },
+      {
+        "name": "Fire",
+        "amount": 63
+      },
+      {
+        "name": "Ligt",
+        "amount": 54
+      },
+      {
+        "name": "Holy",
+        "amount": 60
+      },
+      {
+        "name": "Boost",
+        "amount": 66
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 32
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 17
+  },
+  {
+    "id": "17f69872931l0i12dy19gq5ij75yoe",
+    "name": "Dragonclaw Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 118
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 76
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 52
+      },
+      {
+        "name": "Fire",
+        "amount": 52
+      },
+      {
+        "name": "Ligt",
+        "amount": 76
+      },
+      {
+        "name": "Holy",
+        "amount": 47
+      },
+      {
+        "name": "Boost",
+        "amount": 59
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      },
+      {
+        "name": "Dex",
+        "scaling": "E"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 28
+      },
+      {
+        "name": "Dex",
+        "amount": 12
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 13.5
+  },
+  {
+    "id": "17f6989b386l0i12e4lob57bdw1rqq",
+    "name": "Golden Beast Crest Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 0
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 55
+      },
+      {
+        "name": "Fire",
+        "amount": 55
+      },
+      {
+        "name": "Ligt",
+        "amount": 48
+      },
+      {
+        "name": "Holy",
+        "amount": 55
+      },
+      {
+        "name": "Boost",
+        "amount": 58
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 24
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 12.5
+  },
+  {
+    "id": "17f694b1b61l0i12e5nf59cb5qk7vu",
+    "name": "Erdtree Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 120
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 78
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 66
+      },
+      {
+        "name": "Fire",
+        "amount": 49
+      },
+      {
+        "name": "Ligt",
+        "amount": 45
+      },
+      {
+        "name": "Holy",
+        "amount": 76
+      },
+      {
+        "name": "Boost",
+        "amount": 57
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      },
+      {
+        "name": "Fai",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 30
+      },
+      {
+        "name": "Fai",
+        "amount": 12
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 13.5
+  },
+  {
+    "id": "17f69ac13ecl0i12e68qij6rgf53vp",
+    "name": "Briar Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 98
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 0
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 82
+      },
+      {
+        "name": "Mag",
+        "amount": 50
+      },
+      {
+        "name": "Fire",
+        "amount": 43
+      },
+      {
+        "name": "Ligt",
+        "amount": 50
+      },
+      {
+        "name": "Holy",
+        "amount": 50
+      },
+      {
+        "name": "Boost",
+        "amount": 56
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 21
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 9.5
+  },
+  {
+    "id": "17f699569f2l0i12e91gm212p52kz4",
+    "name": "Jellyfish Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 123
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 52
+      },
+      {
+        "name": "Fire",
+        "amount": 52
+      },
+      {
+        "name": "Ligt",
+        "amount": 40
+      },
+      {
+        "name": "Holy",
+        "amount": 48
+      },
+      {
+        "name": "Boost",
+        "amount": 50
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      },
+      {
+        "name": "Dex",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 20
+      },
+      {
+        "name": "Dex",
+        "amount": 14
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 8
+  },
+  {
+    "id": "17f69ac7946l0i12emsgkbeuohu93n",
+    "name": "Fingerprint Stone Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 158
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 77
+      },
+      {
+        "name": "Fire",
+        "amount": 81
+      },
+      {
+        "name": "Ligt",
+        "amount": 79
+      },
+      {
+        "name": "Holy",
+        "amount": 75
+      },
+      {
+        "name": "Boost",
+        "amount": 81
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 48
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 29
+  },
+  {
+    "id": "17f693ca65dl0i12eu7yz6cf3nexe",
+    "name": "Icon Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 160
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 89
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 45
+      },
+      {
+        "name": "Ligt",
+        "amount": 51
+      },
+      {
+        "name": "Holy",
+        "amount": 48
+      },
+      {
+        "name": "Boost",
+        "amount": 57
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 22
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 11.5
+  },
+  {
+    "id": "17f69797ac7l0i12ew4eqk33suyj17",
+    "name": "Visage Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 186
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 62
+      },
+      {
+        "name": "Fire",
+        "amount": 81
+      },
+      {
+        "name": "Ligt",
+        "amount": 65
+      },
+      {
+        "name": "Holy",
+        "amount": 62
+      },
+      {
+        "name": "Boost",
+        "amount": 75
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 44
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 24
+  },
+  {
+    "id": "17f69378e1dl0i12exgnluqgflkbi",
+    "name": "One-eyed Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 175
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 57
+      },
+      {
+        "name": "Fire",
+        "amount": 69
+      },
+      {
+        "name": "Ligt",
+        "amount": 59
+      },
+      {
+        "name": "Holy",
+        "amount": 63
+      },
+      {
+        "name": "Boost",
+        "amount": 67
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 36
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 20.5
+  },
+  {
+    "id": "17f69c7916el0i12ey2p0l7xj09nis",
+    "name": "Spiked Palisade Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 0
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 89
+      },
+      {
+        "name": "Mag",
+        "amount": 51
+      },
+      {
+        "name": "Fire",
+        "amount": 45
+      },
+      {
+        "name": "Ligt",
+        "amount": 54
+      },
+      {
+        "name": "Holy",
+        "amount": 50
+      },
+      {
+        "name": "Boost",
+        "amount": 57
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 20
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 11.5
+  },
+  {
+    "id": "17f695ce77cl0i12fbgg8t0smpvg3n",
+    "name": "Manor Towershield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 111
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 66
+      },
+      {
+        "name": "Fire",
+        "amount": 66
+      },
+      {
+        "name": "Ligt",
+        "amount": 51
+      },
+      {
+        "name": "Holy",
+        "amount": 56
+      },
+      {
+        "name": "Boost",
+        "amount": 65
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 30
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 16
+  },
+  {
+    "id": "17f6981fc6cl0i12fkq4jfcsautbiv",
+    "name": "Crossed-tree Towershield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 111
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 66
+      },
+      {
+        "name": "Fire",
+        "amount": 56
+      },
+      {
+        "name": "Ligt",
+        "amount": 54
+      },
+      {
+        "name": "Holy",
+        "amount": 66
+      },
+      {
+        "name": "Boost",
+        "amount": 63
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 30
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 16
+  },
+  {
+    "id": "17f69a1afefl0i12fozrc1tnhg20is",
+    "name": "Redmane Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 108
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 54
+      },
+      {
+        "name": "Fire",
+        "amount": 70
+      },
+      {
+        "name": "Ligt",
+        "amount": 53
+      },
+      {
+        "name": "Holy",
+        "amount": 52
+      },
+      {
+        "name": "Boost",
+        "amount": 61
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 30
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 14
+  },
+  {
+    "id": "17f69b33aafl0i12fqkwzuaznegji",
+    "name": "Ant's Skull Plate",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 136
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 47
+      },
+      {
+        "name": "Fire",
+        "amount": 42
+      },
+      {
+        "name": "Ligt",
+        "amount": 57
+      },
+      {
+        "name": "Holy",
+        "amount": 57
+      },
+      {
+        "name": "Boost",
+        "amount": 59
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 28
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 13.5
+  },
+  {
+    "id": "17f69bfaff2l0i12frzztam4cpn7d",
+    "name": "Inverted Hawk Towershield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 111
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 66
+      },
+      {
+        "name": "Fire",
+        "amount": 56
+      },
+      {
+        "name": "Ligt",
+        "amount": 54
+      },
+      {
+        "name": "Holy",
+        "amount": 66
+      },
+      {
+        "name": "Boost",
+        "amount": 63
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "?"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 30
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 16
+  },
+  {
+    "id": "17f69ae9ee5l0i12fyuk6a06fvdcq",
+    "name": "Eclipse Crest Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 110
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 72
+      },
+      {
+        "name": "Fire",
+        "amount": 57
+      },
+      {
+        "name": "Ligt",
+        "amount": 51
+      },
+      {
+        "name": "Holy",
+        "amount": 59
+      },
+      {
+        "name": "Boost",
+        "amount": 63
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "32",
+        "amount": null
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 15
+  },
+  {
+    "id": "17f69aba9d3l0i12ga56obpyqthd0a",
+    "name": "Cuckoo Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 110
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 70
+      },
+      {
+        "name": "Fire",
+        "amount": 56
+      },
+      {
+        "name": "Ligt",
+        "amount": 52
+      },
+      {
+        "name": "Holy",
+        "amount": 60
+      },
+      {
+        "name": "Boost",
+        "amount": 62
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 32
+      }
+    ],
+    "category": null,
+    "weight": 15
+  },
+  {
+    "id": "17f695ae9edl0i12glt4xotvobrl0m",
+    "name": "Gilded Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 115
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 60
+      },
+      {
+        "name": "Fire",
+        "amount": 66
+      },
+      {
+        "name": "Ligt",
+        "amount": 54
+      },
+      {
+        "name": "Holy",
+        "amount": 65
+      },
+      {
+        "name": "Boost",
+        "amount": 67
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 36
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 17.5
+  },
+  {
+    "id": "17f698cf6d3l0i12gnjnwa5wdqlqj",
+    "name": "Golden Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 57
+      },
+      {
+        "name": "Fire",
+        "amount": 60
+      },
+      {
+        "name": "Ligt",
+        "amount": 57
+      },
+      {
+        "name": "Holy",
+        "amount": 68
+      },
+      {
+        "name": "Boost",
+        "amount": 68
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 34
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 17
+  },
+  {
+    "id": "17f698f9c1fl0i12go9pgbh4sdw0zs",
+    "name": "Haligtree Crest Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 116
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 100
+      },
+      {
+        "name": "Mag",
+        "amount": 61
+      },
+      {
+        "name": "Fire",
+        "amount": 67
+      },
+      {
+        "name": "Ligt",
+        "amount": 55
+      },
+      {
+        "name": "Holy",
+        "amount": 79
+      },
+      {
+        "name": "Boost",
+        "amount": 68
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": ""
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 36
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 18.5
+  },
+  {
+    "id": "17f699949b2l0i12gqzulu6fgih91o",
+    "name": "Wooden Greatshield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 95
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 79
+      },
+      {
+        "name": "Mag",
+        "amount": 49
+      },
+      {
+        "name": "Fire",
+        "amount": 41
+      },
+      {
+        "name": "Ligt",
+        "amount": 51
+      },
+      {
+        "name": "Holy",
+        "amount": 47
+      },
+      {
+        "name": "Boost",
+        "amount": 51
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 14
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 8
+  },
+  {
+    "id": "17f69b9df0bl0i12h4ss3ka8zvpcoc",
+    "name": "Lordsworn's Shield",
+    "attack": [
+      {
+        "name": "Phy",
+        "amount": 99
+      },
+      {
+        "name": "Mag",
+        "amount": 0
+      },
+      {
+        "name": "Fire",
+        "amount": 0
+      },
+      {
+        "name": "Ligt",
+        "amount": 0
+      },
+      {
+        "name": "Holy",
+        "amount": 0
+      },
+      {
+        "name": "Crit",
+        "amount": 100
+      }
+    ],
+    "defence": [
+      {
+        "name": "Phy",
+        "amount": 84
+      },
+      {
+        "name": "Mag",
+        "amount": 51
+      },
+      {
+        "name": "Fire",
+        "amount": 44
+      },
+      {
+        "name": "Ligt",
+        "amount": 52
+      },
+      {
+        "name": "Holy",
+        "amount": 52
+      },
+      {
+        "name": "Boost",
+        "amount": 57
+      }
+    ],
+    "scalesWith": [
+      {
+        "name": "Str",
+        "scaling": "D"
+      }
+    ],
+    "requiredAttributes": [
+      {
+        "name": "Str",
+        "amount": 16
+      }
+    ],
+    "category": "Greatshield",
+    "weight": 10
+  }
+]
