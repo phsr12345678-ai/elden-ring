@@ -14,7 +14,7 @@ function stats(arr: unknown) {
 // Known unobtainable/cut records in the upstream dump. Keep them out of a play database.
 const unavailable = /Entwining Umbilical Cord|Deathbed Smalls|Brave's|Ragged |Miranda's Prayer|Grass Hair Ornament|Millicent's (Armor|Gloves|Boots)|Godfrey The Grafted|Bloodhunter Raz/i;
 const endgame = /malenia|maliketh|elden beast|radagon of|mohg|hoarah|gideon ofnir|placidusax|farum azula|haligtree|elphael|consecrated|forge of the giants|mountaintops|castle sol|nokron|nokstella|lake of rot|moonlight altar|three fingers|dark moon greatsword|ranni's dark moon|shard of alexander|millicent's prosthesis|sacred relic sword/i;
-export function buildDataset(): EntryInput[] {
+export function buildDataset(includeEnrichment=true): EntryInput[] {
   const all = new Map<string,EntryInput>();
   const english = new Map<string,string>();
   for (const file of fs.readdirSync('data/upstream').filter(f=>f.endsWith('.json')).sort()) {
@@ -118,6 +118,19 @@ export function buildDataset(): EntryInput[] {
     const id=find(en);if(!id)continue;
     all.get(id)!.questSteps=steps.map(([title,loc,npc,pre,spoiler],i)=>({id:`${id}-step-${i+1}`,position:i+1,title,locationId:find(loc)??null,npcId:find(npc)??null,requiredItems:[],prerequisites:pre,nextStepId:i<steps.length-1?`${id}-step-${i+2}`:null,failure:'관련 NPC를 공격하거나 선택을 확정하기 전 진행 상태를 확인하세요.',spoiler}));
     for(const step of steps) {link(en,step[1],'퀘스트 경유지');link(en,step[2],'관련 NPC');}
+  }
+  if(includeEnrichment && fs.existsSync('data/enrichment/web.json')) {
+    const records=JSON.parse(fs.readFileSync('data/enrichment/web.json','utf8'));
+    for(const raw of records) {
+      const prev=all.get(raw.id);
+      const e=validateEntry({...prev,...raw,details:{...prev?.details,...raw.details},sources:[...(prev?.sources??[]),...raw.sources],relations:prev?.relations??[]});
+      if(e.category==='weapons'&&e.details.attackMax&&typeof e.details.attackMax==='object')e.upgrades=[...e.upgrades,{level:Number(e.details.maxUpgrade??25),affinity:'standard',attack:e.details.attackMax as Record<string,number>,scaling:(e.details.scalingMax??{}) as Record<string,string>}];
+      all.set(e.id,e);english.set(normalize(e.nameEn),e.id);
+    }
+    for(const file of ['locations.json','characters.json','blogs.json'])if(fs.existsSync('data/enrichment/'+file))for(const raw of JSON.parse(fs.readFileSync('data/enrichment/'+file,'utf8'))) {
+      const prev=all.get(raw.id);const relations=(raw.relatedNames??[]).map((r:{name:string;label:string})=>({toId:find(r.name),label:r.label})).filter((r:{toId?:string})=>r.toId&&r.toId!==raw.id);
+      const e=validateEntry({...prev,...raw,details:{...prev?.details,...raw.details},sources:[...(prev?.sources??[]),...raw.sources],relations:[...(prev?.relations??[]),...relations].filter((r,i,a)=>a.findIndex(x=>x.toId===r.toId&&x.label===r.label)===i)});all.set(e.id,e);
+    }
   }
   return [...all.values()].map(validateEntry);
 }

@@ -1,0 +1,71 @@
+{
+  "collectedAt": "2026-10-06T13:23:58.268Z",
+  "report": [
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EC%86%8C%ED%98%95%20%EB%AC%B4%EA%B8%B0",
+      "status": "ok",
+      "count": 37
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EC%A4%91%ED%98%95%20%EB%AC%B4%EA%B8%B0",
+      "status": "ok",
+      "count": 94
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EB%8C%80%ED%98%95%20%EB%AC%B4%EA%B8%B0",
+      "status": "ok",
+      "count": 72
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%ED%8A%B9%EB%8C%80%ED%98%95%20%EB%AC%B4%EA%B8%B0",
+      "status": "ok",
+      "count": 36
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EA%B8%B4%20%EC%9E%90%EB%A3%A8%20%EB%AC%B4%EA%B8%B0",
+      "status": "ok",
+      "count": 52
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EC%9B%90%EA%B1%B0%EB%A6%AC%20%EB%AC%B4%EA%B8%B0",
+      "status": "ok",
+      "count": 1
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EC%B4%89%EB%A7%A4",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "url": "https://namu.wiki/w/%EC%97%98%EB%93%A0%20%EB%A7%81%2F%EB%AC%B4%EA%B8%B0%2F%EB%B0%A9%ED%8C%A8",
+      "status": "ok",
+      "count": 10
+    },
+    {
+      "url": "https://eldenring.wiki.gg/wiki/Weapons",
+      "status": "ok",
+      "count": 431
+    },
+    {
+      "url": "https://eldenring.wiki.gg/wiki/Talismans",
+      "status": "ok",
+      "count": 95
+    }
+  ],
+  "records": 529,
+  "assets": 1444,
+  "skipped": [
+    {
+      "site": "Fextralife",
+      "reason": "robots explicitly forbids automated harvesting"
+    },
+    {
+      "site": "Naver Blog",
+      "reason": "robots prohibits retrieval/RAG"
+    },
+    {
+      "site": "wiki.gg map marker API",
+      "reason": "robots disallows /api.php and /rest.php"
+    }
+  ]
+}

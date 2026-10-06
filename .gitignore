@@ -14,3 +14,6 @@ data/collection-report.json
 *.p12
 *.pfx
 coverage/
+# Downloaded game images remain private, outside Git.
+data/assets-cache/
+data/enrichment/import-state.json

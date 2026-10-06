@@ -1,0 +1,248 @@
+[
+  {
+    "id": "locations-fog-rift-fort",
+    "nameKo": "안개 계곡의 요새",
+    "nameEn": "Fog Rift Fort",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "locationPictures": [
+        "asset-bdcd47b88a175afeb698bb2e35c18c16",
+        "asset-59d5ba47c1bb0c3cd6a54855c43eb197",
+        "asset-64e5ff3259b51c35ced16e8747b98bdc",
+        "asset-b6dbc2e86cab3e8fff5198e2c08b9122",
+        "asset-c03becfb0c74159244cef91d92ef7dc9",
+        "asset-bd1af7f6162773b5665a769a77640a28",
+        "asset-87d94e8c6cdda469f948d9d0795e3b4c",
+        "asset-f499f307f71d941b3d24e93da5930419",
+        "asset-e8684b3a4b0777dbe0b4f6e56adf7d67",
+        "asset-9270443dce344df4b652417618922e53",
+        "asset-2c8a20fce07db363cfa416dde7ae6ce6",
+        "asset-13f4ec89324d54c4c25484eca1c0f7ca",
+        "asset-59920487dc3ed0cb0552d5693666ca23"
+      ],
+      "navigation": "그림자 알터 서쪽 축복에서 서쪽 절벽으로 이동합니다. 아래의 발판을 확인하며 차례로 내려가 요새에 진입합니다. 요새 안의 사다리로 하층에 내려갈 수 있으며 화약통과 매복한 병사를 주의하세요."
+    },
+    "sources": [
+      {
+        "title": "안개 계곡의 요새(엔시스 성채 서쪽) 가는 법",
+        "url": "https://intensity.tistory.com/508484",
+        "checkedAt": "2026-10-06T13:13:28.491Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ],
+    "spoiler": false,
+    "relatedNames": [
+      {
+        "name": "Scadu Altus",
+        "label": "지역"
+      },
+      {
+        "name": "Castle Ensis",
+        "label": "인근 성채"
+      }
+    ]
+  },
+  {
+    "id": "weapons-fire-knight-s-shortsword",
+    "nameKo": "불의 기사 단검",
+    "nameEn": "Fire Knight's Shortsword",
+    "category": "weapons",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "locationPictures": [
+        "asset-dbed5840c2f4ee9ff9ed4004d3f7492d",
+        "asset-139394921c6abe8c30ca32e8fc730398",
+        "asset-cde4d101d370b22c7a3c9a4125f5921b"
+      ],
+      "navigation": "그림자의 성 씨앗 보관고에서 단검을 사용하는 불의 기사를 반복 처치해 드롭을 확인합니다. 보관고의 층과 적 무기를 먼저 확인하세요. 무작위 드롭이므로 한 번의 처치로 획득을 보장하지 않습니다."
+    },
+    "sources": [
+      {
+        "title": "불의 기사 단검 위치",
+        "url": "https://intensity.tistory.com/508475",
+        "checkedAt": "2026-10-06T13:13:30.278Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ]
+  },
+  {
+    "id": "weapons-bloodfiend-s-arm",
+    "nameKo": "혈귀의 팔",
+    "nameEn": "Bloodfiend's Arm",
+    "category": "weapons",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "locationPictures": [
+        "asset-2046dde14278dc5e25dd900857610532",
+        "asset-a7d065f163266df176c4a9b92ca71c57",
+        "asset-c4fa0ee9d8c6fe015ad6b572c4d35adf",
+        "asset-45f177e2e1123926d5f34aa53b032f16",
+        "asset-f6f2eea8ec01360104513da3f1c16380",
+        "asset-e0249d3e3e79cc6e5c44ef71ddb74c89"
+      ],
+      "navigation": "묘지 평원의 절벽길 끝 축복에서 남쪽의 조망도시로 갑니다. 도시의 계단과 무너진 벽을 따라 상층으로 올라가 혈귀 무리를 처치합니다. 다른 혈귀 무기와 혼동하지 않도록 드롭 이름을 확인하세요."
+    },
+    "sources": [
+      {
+        "title": "엘든링 혈귀의 팔 위치",
+        "url": "https://intensity.tistory.com/508454",
+        "checkedAt": "2026-10-06T13:13:32.919Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ]
+  },
+  {
+    "id": "bosses-dragonlord-placidusax",
+    "nameKo": "용왕 플라키두삭스",
+    "nameEn": "Dragonlord Placidusax",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "locationPictures": [
+        "asset-aa2957bf0413d5acbaf46ea0aae849c9",
+        "asset-3068f316ebed6bc530b8efea145a622e",
+        "asset-5ce9fdac49c26d16af1430a9507f4558",
+        "asset-11c6a2304bcf846d1d290130ae051802",
+        "asset-960fbc4354cd636e6617960e1b926311",
+        "asset-9f94964ed2c6e54ba8876a4b2a76a2a1",
+        "asset-5f9d371cef01e2a04b00241261a577a8",
+        "asset-cda04f22b59cbd7b449f8b3e09db99bd",
+        "asset-6e5c965d40428dab4ae5bdd46ae73aaa",
+        "asset-a4eee5efb4b15c475ead8b2d76297e30",
+        "asset-f96b09aa147e25366457a8848ffc01b4",
+        "asset-36c229e790e4cde4a588118e236e0297",
+        "asset-388188e110287e0ef353ff426ab008cc"
+      ],
+      "navigation": "무너지는 파름 아즈라의 대도량 옆 축복에서 승강기로 내려갑니다. 계단과 바깥 통로를 지나 남쪽 절벽 아래의 발판으로 내려가세요. 공중에 뜬 돌을 따라 이동해 부서진 유적의 빈자리에 누우면 보스 지역으로 들어갑니다."
+    },
+    "sources": [
+      {
+        "title": "엘든 링 용왕 플라키두삭스 위치 (미켈라의 침 사용)",
+        "url": "https://travous.tistory.com/1225",
+        "checkedAt": "2026-10-06T13:13:38.885Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ]
+  },
+  {
+    "id": "talismans-erdtrees-favor-2",
+    "nameKo": "황금 나무의 은총 +2",
+    "nameEn": "Erdtree's Favor +2",
+    "category": "talismans",
+    "content_type": "base_game",
+    "details": {
+      "locationPictures": [
+        "asset-44a088da7a535e743f81a8516004a224",
+        "asset-597816d2fe04eb0589561e7c4a0372bf",
+        "asset-1121db5d1b24e921aa9ec533e4399602",
+        "asset-df18f45efd9b03ca9dd1ca35d8265ddc",
+        "asset-d39d82ac5657e9076a3aa7ec68a8f081",
+        "asset-f7d4a50609e91421deaa40a1b5848fe4",
+        "asset-a8daf16e9b1e77e8997878ecbba327d4"
+      ],
+      "navigation": "말리케스 처치 후 금역 축복에서 로데일 방향의 승강기를 타고 올라갑니다. 외곽 길을 서쪽으로 통과해 다음 승강기로 내려간 뒤, 난간의 북쪽 경사로로 재가 쌓인 공터에 진입합니다. 부패한 나무령들이 지키는 공터의 끊어진 나뭇가지 위에서 획득합니다.",
+      "legendary": true
+    },
+    "sources": [
+      {
+        "title": "엘든 링 황금 나무의 은총+2 탈리스만 획득 위치",
+        "url": "https://travous.tistory.com/1224",
+        "checkedAt": "2026-10-06T13:13:40.350Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ],
+    "spoiler": true,
+    "acquisition": "재의 도읍 로데일 동쪽 공터 · 금역 축복에서 우회 진입",
+    "relatedNames": [
+      {
+        "name": "Erdtree's Favor",
+        "label": "하위 버전"
+      }
+    ]
+  },
+  {
+    "id": "incantations-greyoll-s-roar",
+    "nameKo": "그레이오르의 포효",
+    "nameEn": "Greyoll's Roar",
+    "category": "incantations",
+    "content_type": "base_game",
+    "details": {
+      "locationPictures": [
+        "asset-534a83cc7599accd4279a6a0945f0574",
+        "asset-3e2dcaa5d65ff4b3a673133ddbaba2b7",
+        "asset-8c3cb6dd3e172995b2cb6bf60331bae5"
+      ]
+    },
+    "sources": [
+      {
+        "title": "엘든 링 대노룡 그레이오르 (그레이오르의 포효) 위치 및 정보",
+        "url": "https://travous.tistory.com/1218",
+        "checkedAt": "2026-10-06T13:13:44.757Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ]
+  },
+  {
+    "id": "locations-elphael-brace-of-the-haligtree",
+    "nameKo": "성수 버팀목 에브레펠",
+    "nameEn": "Elphael, Brace of the Haligtree",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {
+      "locationPictures": [
+        "asset-730a1cc80849cdfecc5c21a79fe4c3d5",
+        "asset-034efe70b69dc70ddebeb6e996d5a3d4",
+        "asset-076f9b2220b131e1662f166a80f0f2ff",
+        "asset-78b717662300df86b3032964386007e3",
+        "asset-9a7c8ef787f4b1748ad59f25cfa8e9ee",
+        "asset-bc5b00e29c6d3e1a6347792f110e9c4d",
+        "asset-51d383aa786eca7e282841bc51e049a1",
+        "asset-354618c90acecb66dfb48edd448104d5",
+        "asset-607c000e21f9282bc94b76311cd286b7",
+        "asset-04b509f8f0fd11d0d91e48e0be9a1007",
+        "asset-68ed735c2fb409dae96b9b2c836c066f",
+        "asset-4270799f825b24431917a0ff3161b1fa",
+        "asset-cc7952fd93227c3889d2f0e3a72442c7",
+        "asset-67759d919adae501966ed1237ff1808d",
+        "asset-9136415a5f60f259a2e2e4c42a9fcfa3",
+        "asset-379613316f3336e7720e36aca7cc5b62",
+        "asset-982b5149561aa4c15e70da41af92d7be",
+        "asset-e748b3579d9eb77a56f04e7beaeb9568",
+        "asset-f45f01ff3b107c5905db9f6c44572f66",
+        "asset-6e3657fcb4c218be25c92833bccd447a",
+        "asset-1170cb2635bdde66860157fc9c3c2161",
+        "asset-fb9051211c6eb72b821f86881387f0b0",
+        "asset-bba7c0b98ca6db519420fd0e42553aa8",
+        "asset-47976e9f29e3237351e8c75fd6b3b97b",
+        "asset-a44c5c35ef9ad66d78783c6658e6bfce",
+        "asset-15bfa0591035ee95de7caf246b181f63",
+        "asset-cf19bb77819529300ad23f267699afb1",
+        "asset-890055d58d31ffed7bbad23c9659979e",
+        "asset-27c2e52767da995f07dfb0573647f96f",
+        "asset-af475773895fa1d9011ddb718e5703c0",
+        "asset-8faaa3992c24ee75fdcf7cc8a20df27f",
+        "asset-8442c66911b0da979d40cdd3ab62b911",
+        "asset-04f5729c529413e10c58490af33e1b3d",
+        "asset-2a4040f06b9c5f0a766ca4cdf6395bc8",
+        "asset-4e6e11db904f76f92a3e082cc08e8a37",
+        "asset-31db52b855d1ced45490f56611efe66e",
+        "asset-7118b3d96476ad6f998f32211368e7b3",
+        "asset-99a3d403264582c5b3c3d1101fd6ca22",
+        "asset-4c1d776dcf552956e91a52e608638753",
+        "asset-5f1fe8b2f3eac36053b85b87e2a5b754",
+        "asset-c22db7ea2f4fa3cb4325671db499f93c",
+        "asset-1997b0e9851ac73e76e33b0e1f2e5599",
+        "asset-ffab0d384c42246e9f6c4eba28249aed"
+      ]
+    },
+    "sources": [
+      {
+        "title": "엘든 링 미켈라의 성수 공략 Part 1 성수 버팀목 에브레펠",
+        "url": "https://travous.tistory.com/1209",
+        "checkedAt": "2026-10-06T13:13:52.504Z",
+        "note": "개인 참조용 위치 그림 출처. 공략 본문 복사 없음. 블로그 단독 정보는 검토 필요."
+      }
+    ]
+  }
+]

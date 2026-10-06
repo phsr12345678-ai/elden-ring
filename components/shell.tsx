@@ -21,8 +21,8 @@ function Frame({children}:{children:React.ReactNode}) {
       <nav aria-label="주 메뉴">
         <Link href="/" className={`nav-item ${path==='/'?'active':''}`}><Compass size={17}/> 아카이브 홈 <ChevronRight size={13}/></Link>
         <Link href="/search" className={`nav-item ${path==='/search'?'active':''}`}><Search size={17}/> 전체 문서</Link>
-        {GROUPS.map(group=><div className="nav-group" key={group.name}><div className="nav-label">{group.name}</div>{group.categories.map(cat=><Link key={cat} href={`/browse/${cat}`} className={`nav-item ${path===`/browse/${cat}`?'active':''}`}><NavIcon category={cat}/>{CATEGORIES[cat]}</Link>)}</div>)}
-        <div className="nav-group"><div className="nav-label">나의 여정</div><Link href="/favorites" className={`nav-item ${path==='/favorites'?'active':''}`}><Star size={16}/>내 즐겨찾기<span className="nav-count">{profile.favorites.length}</span></Link><Link href="/checklist" className="nav-item"><CheckSquare size={16}/>플레이 체크리스트</Link><Link href="/builds" className="nav-item"><SlidersHorizontal size={16}/>빌드 노트</Link></div>
+        {GROUPS.map(group=><div className="nav-group" key={group.name}><div className="nav-label">{group.name}</div>{group.categories.map(cat=><Link key={cat} href={cat==='maps'?'/map':`/browse/${cat}`} className={`nav-item ${path===`/browse/${cat}`?'active':''}`}><NavIcon category={cat}/>{CATEGORIES[cat]}</Link>)}</div>)}
+        <Link href="/gallery" className={`nav-item ${path==='/gallery'?'active':''}`}><Layers size={16}/>그림 보관함</Link><div className="nav-group"><div className="nav-label">나의 여정</div><Link href="/favorites" className={`nav-item ${path==='/favorites'?'active':''}`}><Star size={16}/>내 즐겨찾기<span className="nav-count">{profile.favorites.length}</span></Link><Link href="/checklist" className="nav-item"><CheckSquare size={16}/>플레이 체크리스트</Link><Link href="/builds" className="nav-item"><SlidersHorizontal size={16}/>빌드 노트</Link></div>
       </nav>
       <div className="sidebar-bottom"><Link href="/admin"><Settings size={15}/> 데이터 편집 <ArrowUpRight size={12}/></Link><span>본편 + SHADOW OF THE ERDTREE</span><small>개인용 비공식 아카이브</small></div>
     </aside>

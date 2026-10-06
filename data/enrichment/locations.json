@@ -1,0 +1,580 @@
+[
+  {
+    "id": "locations-gael-tunnel",
+    "nameKo": "게르 갱도",
+    "nameEn": "Gael Tunnel",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {
+      "region": "Caelid",
+      "type": "Cave",
+      "boss": "Magma Wyrm",
+      "navigation": "케일리드 서쪽 썩은 자의 오두막 남쪽에서 갱도 입구로 들어갑니다. 수직 통로의 발판을 따라 내려가세요. 림그레이브 쪽 후문은 처음에는 안쪽에서만 열 수 있습니다. 갱도 보스 용암토룡을 처치하면 명도 월은을 얻습니다."
+    },
+    "relatedNames": [
+      {
+        "name": "Magma Wyrm",
+        "label": "보스"
+      },
+      {
+        "name": "Cross-Naginata",
+        "label": "주요 아이템"
+      },
+      {
+        "name": "Gold-Pickled Fowl Foot",
+        "label": "주요 아이템"
+      },
+      {
+        "name": "Large Glintstone Scrap",
+        "label": "주요 아이템"
+      },
+      {
+        "name": "Grace Mimic",
+        "label": "주요 아이템"
+      },
+      {
+        "name": "Dragon Heart",
+        "label": "주요 아이템"
+      },
+      {
+        "name": "Moonveil",
+        "label": "주요 아이템"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eldenpedia · 위치와 연관 문서",
+        "url": "https://eldenring.wiki.gg/wiki/Gael_Tunnel",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "이전에 정상 열람한 공개 HTML에서 기본 정보와 관련 장소 목록만 추출. 설명문 복사 없음."
+      }
+    ]
+  },
+  {
+    "id": "locations-limgrave",
+    "nameKo": "림그레이브",
+    "nameEn": "Limgrave",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {
+      "type": "Region"
+    },
+    "relatedNames": [
+      {
+        "name": "Fringefolk Hero's Grave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Groveside Cave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Stormfoot Catacombs",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Coastal Cave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Murkwater Catacombs",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Murkwater Cave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Limgrave Tunnels",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Highroad Cave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Deathtouched Catacombs",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Earthbore Cave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Morne Tunnel",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Tombsward Catacombs",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Impaler's Catacombs",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Tombsward Cave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Castle Morne",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Chapel of Anticipation",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Stranded Graveyard",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Church of Elleh",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Gatefront Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Stormgate",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Stormhill Shack",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Warmaster's Shack",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Summonwater Village",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Third Church of Marika",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Stormhill Evergaol",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Siofra River Well",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Divine Tower of Limgrave",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Church of Dragon Communion",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Dragon-Burnt Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Waypoint Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Mistwood Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Forlorn Hound Evergaol",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Bridge of Sacrifice",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Fort Haight",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Oridys's Rise",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Forest Lookout Tower",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Ailing Village",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Callu Baptismal Church",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Demi-Human Forest Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Minor Erdtree (Weeping Peninsula)",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Church of Pilgrimage",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Tombsward Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Weeping Evergaol",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Fourth Church of Marika",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Witchbane Ruins",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Isolated Merchant's Shack",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Tower of Return",
+        "label": "지역·던전"
+      },
+      {
+        "name": "The First Step",
+        "label": "축복"
+      },
+      {
+        "name": "Church of Elleh",
+        "label": "축복"
+      },
+      {
+        "name": "Gatefront",
+        "label": "축복"
+      },
+      {
+        "name": "Artist's Shack",
+        "label": "축복"
+      },
+      {
+        "name": "Third Church of Marika",
+        "label": "축복"
+      },
+      {
+        "name": "Church of Dragon Communion",
+        "label": "축복"
+      },
+      {
+        "name": "Stormfoot Catacombs",
+        "label": "축복"
+      },
+      {
+        "name": "Murkwater Catacombs",
+        "label": "축복"
+      },
+      {
+        "name": "Groveside Cave",
+        "label": "축복"
+      },
+      {
+        "name": "Coastal Cave",
+        "label": "축복"
+      },
+      {
+        "name": "Murkwater Cave",
+        "label": "축복"
+      },
+      {
+        "name": "Highroad Cave",
+        "label": "축복"
+      },
+      {
+        "name": "Limgrave Tunnels",
+        "label": "축복"
+      },
+      {
+        "name": "Stranded Graveyard",
+        "label": "축복"
+      },
+      {
+        "name": "Stormhill",
+        "label": "축복"
+      },
+      {
+        "name": "Stormhill Shack",
+        "label": "축복"
+      },
+      {
+        "name": "Margit, the Fell Omen",
+        "label": "축복"
+      },
+      {
+        "name": "Warmaster's Shack",
+        "label": "축복"
+      },
+      {
+        "name": "Deathtouched Catacombs",
+        "label": "축복"
+      },
+      {
+        "name": "Divine Tower of Limgrave",
+        "label": "축복"
+      },
+      {
+        "name": "Weeping Peninsula",
+        "label": "축복"
+      },
+      {
+        "name": "Church of Pilgrimage",
+        "label": "축복"
+      },
+      {
+        "name": "Isolated Merchant's Shack",
+        "label": "축복"
+      },
+      {
+        "name": "Fourth Church of Marika",
+        "label": "축복"
+      },
+      {
+        "name": "Bridge of Sacrifice",
+        "label": "축복"
+      },
+      {
+        "name": "Impaler's Catacombs",
+        "label": "축복"
+      },
+      {
+        "name": "Tombsward Catacombs",
+        "label": "축복"
+      },
+      {
+        "name": "Earthbore Cave",
+        "label": "축복"
+      },
+      {
+        "name": "Tombsward Cave",
+        "label": "축복"
+      },
+      {
+        "name": "Morne Tunnel",
+        "label": "축복"
+      },
+      {
+        "name": "White-Faced Varré",
+        "label": "NPC"
+      },
+      {
+        "name": "Melina",
+        "label": "NPC"
+      },
+      {
+        "name": "Boc the Seamster",
+        "label": "NPC"
+      },
+      {
+        "name": "Ranni the Witch",
+        "label": "NPC"
+      },
+      {
+        "name": "Sorceress Sellen",
+        "label": "NPC"
+      },
+      {
+        "name": "Kenneth Haight",
+        "label": "NPC"
+      },
+      {
+        "name": "Bloody Finger Hunter Yura",
+        "label": "NPC"
+      },
+      {
+        "name": "Roderika",
+        "label": "NPC"
+      },
+      {
+        "name": "D, Hunter of the Dead",
+        "label": "NPC"
+      },
+      {
+        "name": "Witch-Hunter Jerren",
+        "label": "NPC"
+      },
+      {
+        "name": "Knight Bernahl",
+        "label": "NPC"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eldenpedia · 위치와 연관 문서",
+        "url": "https://eldenring.wiki.gg/wiki/Limgrave",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "이전에 정상 열람한 공개 HTML에서 기본 정보와 관련 장소 목록만 추출. 설명문 복사 없음."
+      }
+    ]
+  },
+  {
+    "id": "locations-gravesite-plain",
+    "nameKo": "묘지 평원",
+    "nameEn": "Gravesite Plain",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "type": "Region",
+      "navigation": "본편에서 별 부수는 라단과 피의 군주 모그를 처치한 뒤, 모그윈 왕조의 묘 최하층의 고치에 있는 손을 조사해 진입합니다. 처음에는 묘지 평원 지도를 확보하고 세 갈래의 십자로를 기준으로 진행하세요."
+    },
+    "relatedNames": [
+      {
+        "name": "Castle Ensis",
+        "label": "지역·던전"
+      },
+      {
+        "name": "Gravesite Plain",
+        "label": "축복"
+      },
+      {
+        "name": "Castle Ensis",
+        "label": "축복"
+      },
+      {
+        "name": "Cerulean Coast",
+        "label": "축복"
+      },
+      {
+        "name": "Stone Coffin Fissure",
+        "label": "축복"
+      },
+      {
+        "name": "Jagged Peak",
+        "label": "축복"
+      },
+      {
+        "name": "Redmane Freyja",
+        "label": "NPC"
+      },
+      {
+        "name": "Hornsent",
+        "label": "NPC"
+      },
+      {
+        "name": "Sir Ansbach",
+        "label": "NPC"
+      },
+      {
+        "name": "Moore",
+        "label": "NPC"
+      },
+      {
+        "name": "Thiollier",
+        "label": "NPC"
+      },
+      {
+        "name": "Igon",
+        "label": "NPC"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Eldenpedia · 위치와 연관 문서",
+        "url": "https://eldenring.wiki.gg/wiki/Gravesite_Plain",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "이전에 정상 열람한 공개 HTML에서 기본 정보와 관련 장소 목록만 추출. 설명문 복사 없음."
+      }
+    ]
+  },
+  {
+    "id": "weapons-moonveil",
+    "nameKo": "명도 월은",
+    "nameEn": "Moonveil",
+    "category": "weapons",
+    "content_type": "base_game",
+    "details": {
+      "type": "Katana",
+      "skill": "Transient Moonlight",
+      "fpCost": "- (15 20)",
+      "weight": 6.5,
+      "effect": "Causes blood loss buildup (50)"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "Eldenpedia · 위치와 연관 문서",
+        "url": "https://eldenring.wiki.gg/wiki/Moonveil",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "이전에 정상 열람한 공개 HTML에서 기본 정보와 관련 장소 목록만 추출. 설명문 복사 없음."
+      }
+    ]
+  },
+  {
+    "id": "maps-lands-between",
+    "nameKo": "틈새의 땅 지도",
+    "nameEn": "Lands Between Map",
+    "category": "maps",
+    "content_type": "base_game",
+    "imageUrl": "https://raw.githubusercontent.com/F3T1W/EldenTracker/5ed26ce13922d151a64e7d8118a2e6adc8c416cf/Assets/FullMap.png",
+    "imageSource": "https://github.com/F3T1W/EldenTracker",
+    "details": {
+      "assetId": "map-lands-between",
+      "navigation": "지도 화면에서 확대·이동하거나 개인 위치 마커를 기록할 수 있습니다."
+    },
+    "sources": [
+      {
+        "title": "공개 커뮤니티 지도 원본",
+        "url": "https://github.com/F3T1W/EldenTracker",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "Assets/FullMap.png · 개인 참조용. 원본 이미지의 게임 저작권은 해당 권리자에게 있습니다."
+      }
+    ]
+  },
+  {
+    "id": "maps-underground",
+    "nameKo": "지하세계 지도",
+    "nameEn": "Underground Map",
+    "category": "maps",
+    "content_type": "base_game",
+    "imageUrl": "https://raw.githubusercontent.com/elpwc/EldenRingOnlineMap/9659e35e0ff67dd676f878aef07665e8047f35e2/mapDivider/underground.png",
+    "imageSource": "https://github.com/elpwc/EldenRingOnlineMap",
+    "details": {
+      "assetId": "map-underground",
+      "navigation": "지도 화면에서 확대·이동하거나 개인 위치 마커를 기록할 수 있습니다."
+    },
+    "sources": [
+      {
+        "title": "공개 커뮤니티 지도 원본",
+        "url": "https://github.com/elpwc/EldenRingOnlineMap",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "mapDivider/underground.png · 개인 참조용. 원본 이미지의 게임 저작권은 해당 권리자에게 있습니다."
+      }
+    ]
+  },
+  {
+    "id": "maps-realm-of-shadow",
+    "nameKo": "그림자의 땅 지도",
+    "nameEn": "Realm of Shadow Map",
+    "category": "maps",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://raw.githubusercontent.com/elpwc/EldenRingOnlineMap/9659e35e0ff67dd676f878aef07665e8047f35e2/mapDivider/dlc1.png",
+    "imageSource": "https://github.com/elpwc/EldenRingOnlineMap",
+    "details": {
+      "assetId": "map-realm-of-shadow",
+      "navigation": "지도 화면에서 확대·이동하거나 개인 위치 마커를 기록할 수 있습니다."
+    },
+    "sources": [
+      {
+        "title": "공개 커뮤니티 지도 원본",
+        "url": "https://github.com/elpwc/EldenRingOnlineMap",
+        "checkedAt": "2026-10-06T12:57:14.528Z",
+        "note": "mapDivider/dlc1.png · 개인 참조용. 원본 이미지의 게임 저작권은 해당 권리자에게 있습니다."
+      }
+    ]
+  }
+]

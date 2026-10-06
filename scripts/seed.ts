@@ -23,6 +23,7 @@ try {
   for(const e of entries) {
     if(!added.has(e.id))continue;
     for(const r of e.relations)if(known.has(r.toId))await db.relation.upsert({where:{fromId_toId_label:{fromId:e.id,...r}},create:{fromId:e.id,...r},update:{}});
+    for(const u of e.upgrades)await db.weaponUpgrade.create({data:{...u,entryId:e.id,attack:JSON.stringify(u.attack),scaling:JSON.stringify(u.scaling)}});
     for(const s of e.questSteps)await db.questStep.create({data:{...s,questId:e.id,requiredItems:JSON.stringify(s.requiredItems)}});
   }
   console.log(JSON.stringify({added:added.size,total:await db.entry.count(),base:await db.entry.count({where:{content_type:'base_game'}}),dlc:await db.entry.count({where:{content_type:'shadow_of_the_erdtree'}})},null,2));

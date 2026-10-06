@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "postinstall": "prisma generate && npm run db:setup",
+    "postinstall": "prisma generate && npm run db:setup && npm run data:import && npm run assets:fetch",
     "dev": "next dev --hostname 127.0.0.1",
     "build": "next build",
     "start": "next start --hostname 127.0.0.1",
@@ -14,7 +14,14 @@
     "data:validate": "tsx scripts/validate.ts",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test tests/*.test.ts",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "data:enrich": "tsx scripts/enrich.ts && tsx scripts/collect-locations.ts && tsx scripts/collect-characters.ts && tsx scripts/collect-gallery.ts && tsx scripts/collect-blogs.ts && tsx scripts/check-facts.ts && tsx scripts/import-enrichment.ts",
+    "data:import": "tsx scripts/import-enrichment.ts",
+    "assets:fetch": "tsx scripts/assets.ts",
+    "data:characters": "tsx scripts/collect-characters.ts",
+    "assets:catalog": "tsx scripts/collect-gallery.ts",
+    "data:blogs": "tsx scripts/collect-blogs.ts",
+    "data:check": "tsx scripts/check-facts.ts"
   },
   "engines": {
     "node": ">=22.0.0"
@@ -37,7 +44,9 @@
     "@types/node": "^24.0.0",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
+    "cheerio": "^1.2.0",
     "prisma": "6.19.3",
+    "robots-parser": "^3.0.1",
     "tailwindcss": "^4.1.0",
     "tsx": "^4.20.0",
     "typescript": "^5.9.0",

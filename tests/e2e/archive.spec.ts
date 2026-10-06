@@ -43,11 +43,24 @@ test('admin CRUD, connected relations and scope exclusion',async({page,request})
 });
 test('mobile navigation, detail tables and search have no horizontal overflow',async({page})=>{
  await page.setViewportSize({width:390,height:844});
- for(const path of ['/','/search?q=Moonveil','/entry/weapons-moonveil','/checklist','/admin']){
+ for(const path of ['/','/search?q=Moonveil','/entry/weapons-moonveil','/checklist','/admin','/map','/gallery']){
   await page.goto(path);await expect(page.locator('main')).toBeVisible();expect(await page.evaluate(()=>document.documentElement.scrollWidth<=window.innerWidth)).toBeTruthy();
  }
  await page.getByRole('button',{name:'메뉴 열기'}).click();await expect(page.getByRole('link',{name:'아카이브 홈'})).toBeVisible();await page.getByRole('link',{name:'아카이브 홈'}).click();await expect(page.getByRole('heading',{name:'ELDEN RING ARCHIVE'})).toBeVisible();
 });
 test('saved build survives reload',async({page})=>{
  await page.goto('/builds');await page.getByRole('textbox',{name:'빌드 이름'}).fill('Lv.150 월은');await page.getByRole('button',{name:'빌드 저장'}).click();await page.reload();await expect(page.getByRole('button',{name:'Lv.150 월은 Lv. 150'})).toBeVisible();
+});
+test('cached weapon image expands and source files never proxy arbitrary URLs',async({page,request})=>{
+ await page.goto('/entry/weapons-moonveil');const image=page.locator('.archive-image img').first();await expect(image).toBeVisible();await expect.poll(()=>image.evaluate((img:HTMLImageElement)=>img.naturalWidth)).toBeGreaterThan(0);await page.getByRole('button',{name:'명도 월은 이미지 확대'}).click();await expect(page.getByRole('dialog',{name:'명도 월은 그림'})).toBeVisible();await page.getByRole('button',{name:'닫기 ×'}).click();await expect(page.getByRole('dialog')).toHaveCount(0);expect((await request.get('/api/assets/not-in-manifest')).status()).toBe(404);
+});
+test('all three real maps load and private markers persist with category filters',async({page})=>{
+ await page.goto('/map');await page.getByRole('switch',{name:'스포일러 숨김'}).click();
+ for(const name of ['본편 · 틈새의 땅','본편 · 지하세계','Shadow of the Erdtree · 그림자의 땅']){await page.getByRole('button',{name,exact:true}).click();const img=page.locator('.map-canvas>img');await expect.poll(()=>img.evaluate((el:HTMLImageElement)=>el.naturalWidth),{timeout:30000}).toBeGreaterThan(1000);}
+ await page.getByRole('button',{name:'본편 · 틈새의 땅',exact:true}).click();await page.getByRole('textbox',{name:'지도 문서 검색'}).fill('Moonveil');await page.locator('.map-results button').filter({hasText:'명도 월은'}).click();await page.getByRole('button',{name:'선택 문서 위치 기록',exact:true}).click();await page.locator('.map-canvas').click({position:{x:100,y:100}});await expect(page.getByRole('button',{name:'명도 월은 개인 마커'})).toHaveCount(1);await page.reload();await expect(page.getByRole('button',{name:'명도 월은 개인 마커'})).toHaveCount(1);await page.getByRole('checkbox',{name:'무기',exact:true}).uncheck();await expect(page.getByRole('button',{name:'명도 월은 개인 마커'})).toHaveCount(0);await page.getByRole('checkbox',{name:'무기',exact:true}).check();await page.getByRole('button',{name:'명도 월은 개인 마커'}).click();await page.getByRole('button',{name:'이 개인 마커 삭제'}).click();await expect(page.getByRole('button',{name:'명도 월은 개인 마커'})).toHaveCount(0);
+});
+test('location guide images and variant documents use correct acquisition context',async({page})=>{
+ await page.goto('/entry/bosses-dragonlord-placidusax');await page.getByRole('switch',{name:'스포일러 숨김'}).click();await expect(page.getByRole('heading',{name:/위치 참고 그림/})).toBeVisible();const image=page.locator('.route-gallery img').first();await image.scrollIntoViewIfNeeded();await expect.poll(()=>image.evaluate((el:HTMLImageElement)=>el.naturalWidth)).toBeGreaterThan(0);await expect(page.getByText('공중에 뜬 돌을 따라 이동해',{exact:false})).toBeVisible();
+ await page.goto('/entry/talismans-erdtrees-favor-2');await expect(page.getByRole('heading',{name:'황금 나무의 은총 +2',exact:true})).toBeVisible();await expect(page.locator('a[href="/entry/talismans-erdtree-s-favor"]').first()).toBeVisible();
+ await page.goto('/entry/locations-fog-rift-fort');await expect(page.getByRole('heading',{name:'안개 계곡의 요새',exact:true})).toBeVisible();await expect(page.getByText('그림자 알터 서쪽 축복에서 서쪽 절벽으로 이동합니다.',{exact:false})).toBeVisible();
 });

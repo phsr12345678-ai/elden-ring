@@ -1,0 +1,2287 @@
+[
+  {
+    "id": "bosses-alecto-black-knife-ringleader",
+    "nameKo": "검은 칼날의 우두머리 알렉토",
+    "nameEn": "Alecto, Black Knife Ringleader",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "80,000룬검은 칼날 티시"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B2%80%EC%9D%80%20%EC%B9%BC%EB%82%A0%EC%9D%98%20%EC%9A%B0%EB%91%90%EB%A8%B8%EB%A6%AC%20%EC%95%8C%EB%A0%89%ED%86%A0",
+        "checkedAt": "2026-10-06T12:57:54.357Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-ancient-dragon-lansseax",
+    "nameKo": "고룡 란삭스",
+    "nameEn": "Ancient Dragon Lansseax",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "60,000룬기도 - 란삭스의 치도"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B3%A0%EB%A3%A1%20%EB%9E%80%EC%82%AD%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:57:55.853Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-ancestor-spirit",
+    "nameKo": "선조령",
+    "nameEn": "Ancestor Spirit",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/E0Fv2p3gmyewVaRDcoYz3yOjBo2mjhGL7oBwY6Gm_Qv-th1_azuPXFkbCSDXhipaGHVQM9GHyV3fBKm_QZJftxqlrr0tHvFjAXF7xrO0Nzcqp16NV75uONqpBjwkzE0kQ2qDf84OeF8ypijZESsV6g.webp",
+    "imageSource": "https://namu.wiki/w/%EC%84%A0%EC%A1%B0%EB%A0%B9",
+    "details": {
+      "rewards": "13,000룬선조령의 백성의 뼛가루",
+      "assetId": "asset-61e3850237a3866f7047cecc8314bf50"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%84%A0%EC%A1%B0%EB%A0%B9",
+        "checkedAt": "2026-10-06T12:57:57.703Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-beastman-of-farum-azula",
+    "nameKo": "파름 아즈라의 수인",
+    "nameEn": "Beastman Of Farum Azula",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/4klC5WcOjbxq7jHCZ8qSjzdetfPGSxGSBnQJE7-ZB2gdWWxL98APQK6wgtS2iegxfRm9dJ2DD1g8_e9IeG0_UiHi8yRYMiksIzjF_MOfrN5jxKHONP9dIKSYKqv8VcvGhJzNQoydEu-UCBrZ7U-wHA.webp",
+    "imageSource": "https://namu.wiki/w/%ED%8C%8C%EB%A6%84%20%EC%95%84%EC%A6%88%EB%9D%BC%EC%9D%98%20%EC%88%98%EC%9D%B8",
+    "details": {
+      "rewards": "65000룬염룡 표식의 탈리스만+2",
+      "assetId": "asset-4e5721fad8cf0bc0e1571cf4d1ee8e6f"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%8C%8C%EB%A6%84%20%EC%95%84%EC%A6%88%EB%9D%BC%EC%9D%98%20%EC%88%98%EC%9D%B8",
+        "checkedAt": "2026-10-06T12:57:59.270Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-bell-bearing-hunter",
+    "nameKo": "방울 사냥꾼",
+    "nameEn": "Bell Bearing Hunter",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "림그레이브 - 2,700룬 + 뼈 장사꾼의 방울호수의 리에니에 - 6,000룬 + 고기 장사꾼의 방울알터 고원 - 20,000룬 + 약 장사꾼의 방울그레이오르의 용총 - 50,000룬 + 중력 장사꾼의 방울"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B0%A9%EC%9A%B8%20%EC%82%AC%EB%83%A5%EA%BE%BC",
+        "checkedAt": "2026-10-06T12:58:00.808Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-black-knife-assassin",
+    "nameKo": "검은 칼날의 자객",
+    "nameEn": "Black Knife Assassin",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "1600룬붉은 흉악한 칼날[1]4200룬푸른 흉악한 칼날[2]9000룬몸 가리는 베일[3]10800룬검은 칼날[4]"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B2%80%EC%9D%80%20%EC%B9%BC%EB%82%A0%EC%9D%98%20%EC%9E%90%EA%B0%9D",
+        "checkedAt": "2026-10-06T12:58:02.372Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-bloodhound-knight-darriwil",
+    "nameKo": "사냥개기사 대리윌",
+    "nameEn": "Bloodhound Knight Darriwil",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "3,600룬푸른 호박 메달리온"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%82%AC%EB%83%A5%EA%B0%9C%EA%B8%B0%EC%82%AC%20%EB%8C%80%EB%A6%AC%EC%9C%8C",
+        "checkedAt": "2026-10-06T12:58:03.985Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-commander-niall",
+    "nameKo": "노장 니아르",
+    "nameEn": "Commander Niall",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/dw62VVurklApM2Eg0lIh5z81fkrJREB1X-O0PtxOyZrnE0w1IX028p10D-kg1GHAJfhsPbr5Tl-pPh1tGFSnx5H6dJ69SEws9CtSPINjtMrZov2HsXaQw3ba85PRXbDnJfIV-xwtzJkRqq_QFjy3NA.webp",
+    "imageSource": "https://namu.wiki/w/%EB%85%B8%EC%9E%A5%20%EB%8B%88%EC%95%84%EB%A5%B4",
+    "details": {
+      "rewards": "90000룬노장의 의족",
+      "assetId": "asset-d84f13a5db3eef2872cac30dfc8491fa"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%85%B8%EC%9E%A5%20%EB%8B%88%EC%95%84%EB%A5%B4",
+        "checkedAt": "2026-10-06T12:58:05.601Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-commander-o-neil",
+    "nameKo": "노장 오닐",
+    "nameEn": "Commander O'neil",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/vAaXKBruWmKRHYFjTGuf5sDunJG1rwun0-kW8yS04jd7O7KoNO3zWXF3U8qvhfzE4Nkd2EBpEsXkbHTM2bnhIm_9T24P87X85g3x4eDLsRFvnPjgF0gJ7bq9EUaVglW3uShKxbCd2bgf_WM1VefRTw.webp",
+    "imageSource": "https://namu.wiki/w/%EB%85%B8%EC%9E%A5%20%EC%98%A4%EB%8B%90",
+    "details": {
+      "rewards": "12,000룬노장의 군기무구한 금의 침[1]",
+      "assetId": "asset-7aa71afe6a99d3b520003e46a86b73be"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%85%B8%EC%9E%A5%20%EC%98%A4%EB%8B%90",
+        "checkedAt": "2026-10-06T12:58:07.045Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-crucible-knight-ordovis",
+    "nameKo": "도가니의 기사 오르도비스",
+    "nameEn": "Crucible Knight Ordovis",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "-도가니의 망치 투구 데보니아의 대형 망치"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%8F%84%EA%B0%80%EB%8B%88%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EC%98%A4%EB%A5%B4%EB%8F%84%EB%B9%84%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:58:09.101Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-deathbird",
+    "nameKo": "죽음의 새",
+    "nameEn": "Deathbird",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "2,800 룬, 푸른 날개 칠지인[1]3,900 룬, 산 제물의 도끼[2]6,600 룬, 붉은 날개 칠지인[3]29,000룬, 쌍조의 카이트 실드[4]"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%A3%BD%EC%9D%8C%EC%9D%98%20%EC%83%88",
+        "checkedAt": "2026-10-06T12:58:10.680Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-draconic-tree-sentinel",
+    "nameKo": "용의 트리 가드",
+    "nameEn": "Draconic Tree Sentinel",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/8IrHRUnOP7rY83Ee_6H6T01JVgcNZoGGtj63eev6xyFZm2q3UGLmDgx9c77FMS5F3lG9Yq_Xc1L6TE5xQ_7kiFYPKzhKfhrSsKKa_DJ-y3nbTNzOcDmtNnGKxoBj0JEs6udyNi3m_aRRHiuE_XZaAw.webp",
+    "imageSource": "https://namu.wiki/w/%EC%9A%A9%EC%9D%98%20%ED%8A%B8%EB%A6%AC%20%EA%B0%80%EB%93%9C",
+    "details": {
+      "region": "알터 고원 - 도읍 외곽 - 외곽 전장터",
+      "rewards": "50,000룬대룡조용 발톱의 방패",
+      "assetId": "asset-ba1de1a41425312dffa51bbd76e1f9a4"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%9A%A9%EC%9D%98%20%ED%8A%B8%EB%A6%AC%20%EA%B0%80%EB%93%9C",
+        "checkedAt": "2026-10-06T12:58:12.288Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-crucible-knight",
+    "nameKo": "도가니의 기사",
+    "nameEn": "Crucible Knight",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/IWRVPMU7K26r9jiAFJQDs4cAJOY5-HEbY6gjnz7agrr0wWF5FEKUvn-N1bEOX4s5iTJf80Z5SKXXPflNqwM9iaRpM6KtSx5N8XJEIzdPWHWnTakyXl31nd7yxtLdbJ0IKgWgRsgozH7G2R6c907CQw.webp",
+    "imageSource": "https://namu.wiki/w/%EB%8F%84%EA%B0%80%EB%8B%88%EC%9D%98%20%EA%B8%B0%EC%82%AC#%EB%8F%84%EA%B0%80%EB%8B%88%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EC%98%A4%EB%A5%B4%EB%8F%84%EB%B9%84%EC%8A%A4",
+    "details": {
+      "rewards": "-도가니의 망치 투구 데보니아의 대형 망치",
+      "assetId": "asset-3f3cbbeb4a5fc11bae62ab96738d64c1"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%8F%84%EA%B0%80%EB%8B%88%EC%9D%98%20%EA%B8%B0%EC%82%AC#%EB%8F%84%EA%B0%80%EB%8B%88%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EC%98%A4%EB%A5%B4%EB%8F%84%EB%B9%84%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:58:13.978Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-dragonlord-placidusax",
+    "nameKo": "용왕 플라키두삭스",
+    "nameEn": "Dragonlord Placidusax",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/qMJl9GGR6iP9LLb0O_y_nPIzoARrvz7cv_9s4sSOOLks3KdFRhvxE0wDVFT1lSw-IY3kV_JOsKvHBU99GgxHMllHtM6Kkf0KpVNP2qx9BWiH9y0RHAxyGvQVHJYSBd-KdIXzISMjDUL1v6jn79qMZg.webp",
+    "imageSource": "https://namu.wiki/w/%EC%9A%A9%EC%99%95%20%ED%94%8C%EB%9D%BC%ED%82%A4%EB%91%90%EC%82%AD%EC%8A%A4",
+    "details": {
+      "rewards": "280,000룬(NG)560,000룬(NG+)용왕의 추억",
+      "assetId": "asset-1d3354886d57005073002b92531a143d"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%9A%A9%EC%99%95%20%ED%94%8C%EB%9D%BC%ED%82%A4%EB%91%90%EC%82%AD%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:58:15.543Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-elden-beast",
+    "nameKo": "엘데의 짐승",
+    "nameEn": "Elden Beast",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/bdxYo9-3mvrA1NgrBZnApUnZ_GxTmkHi6b5o41hQCdxiPbTm0tXsbVI80QVh7mtBd5RSHYCO_qtbb2G8Cr9vNQ.gif",
+    "imageSource": "https://namu.wiki/w/%EC%97%98%EB%8D%B0%EC%9D%98%20%EC%A7%90%EC%8A%B9",
+    "details": {
+      "rewards": "500,000룬(NG)1,000,000룬(NG+)엘데의 추억",
+      "assetId": "asset-5631e638a98cea70bf94151d6306a5bb"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%97%98%EB%8D%B0%EC%9D%98%20%EC%A7%90%EC%8A%B9",
+        "checkedAt": "2026-10-06T12:58:17.191Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-elemer-of-the-briar",
+    "nameKo": "철가시 엘레메르",
+    "nameEn": "Elemer Of The Briar",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/O0yiCZiiZUFLFstSNw7abUNReMZewgbHvnXZUpEEeu-LoHl8HnohvoQksyKrSnegdSIv_ITEF4wHYYYswLwOGgFEshZ27bcWKjJQVA3uYi7v2nhWSfCRfi7V8_tehUj2xAa28pqcnukGTlViQx0gHg.webp",
+    "imageSource": "https://namu.wiki/w/%EC%B2%A0%EA%B0%80%EC%8B%9C%20%EC%97%98%EB%A0%88%EB%A9%94%EB%A5%B4",
+    "details": {
+      "rewards": "24000룬마레 가의 집행검철가시 대형 방패",
+      "assetId": "asset-a5223d640bcc39f3e9bec3a07040401a"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%B2%A0%EA%B0%80%EC%8B%9C%20%EC%97%98%EB%A0%88%EB%A9%94%EB%A5%B4",
+        "checkedAt": "2026-10-06T12:58:18.771Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-erdtree-avatar",
+    "nameKo": "황금 나무의 화신",
+    "nameEn": "Erdtree Avatar",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "9,600룬샘솟는 초록 결정 물방울불꽃 두른 깨진 물방울[7]91000룬진주색 굳은 물방울바위 가시 깨진 물방울[8]160000룬가시 깨진 물방울파열된 결정 물방울[9]"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%99%A9%EA%B8%88%20%EB%82%98%EB%AC%B4%EC%9D%98%20%ED%99%94%EC%8B%A0",
+        "checkedAt": "2026-10-06T12:58:20.384Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-flying-dragon-agheel",
+    "nameKo": "비룡 아길",
+    "nameEn": "Flying Dragon Agheel",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/UpBMKPAfJhqV8q0yVY2Uv7HjL7Hp7lQd_Fwlszbpne2w5W6ETrnIx4vcfFFbGpdmLYivrBRcNKmr6M16Bnf2PALRRSUTkIys5heUe0gMnNsoMzr9wTgvKjIxeiysVpMQZZzi2Z6CzoIMsdC3Dz58rg.webp",
+    "imageSource": "https://namu.wiki/w/%EB%B9%84%EB%A3%A1%20%EC%95%84%EA%B8%B8",
+    "details": {
+      "rewards": "100,000룬[23]120,000룬[24]용의 심장고룡의 색 잃은 단석",
+      "assetId": "asset-4ab511ab93ba7ce6fc320d97092ae84d"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B9%84%EB%A3%A1%20%EC%95%84%EA%B8%B8",
+        "checkedAt": "2026-10-06T12:58:22.235Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-fire-giant",
+    "nameKo": "불의 거인",
+    "nameEn": "Fire Giant",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/RdAk2eqHiGPKH0KZ9WnMtLTSja7xJQnJj4PYMox9utGKsSuFbyShq3GB61To7PO0TlKbCRndjNXeieRvdqssvJf-0PyiJvn59uwl76qJFJ4ntVDlH4JrPizi9uDcCRYatsEEydhUdGQgq_tVaY8hTw.webp",
+    "imageSource": "https://namu.wiki/w/%EB%B6%88%EC%9D%98%20%EA%B1%B0%EC%9D%B8",
+    "details": {
+      "region": "거인들의 산령 - 불의 정상",
+      "rewards": "180,000룬(NG)360,000룬(NG+)불의 거인의 추억",
+      "assetId": "asset-e33902c465c27e4a32882f3d8271a842"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B6%88%EC%9D%98%20%EA%B1%B0%EC%9D%B8",
+        "checkedAt": "2026-10-06T12:58:23.793Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-god-devouring-serpent",
+    "nameKo": "신을 먹는 큰 뱀",
+    "nameEn": "God-devouring Serpent",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/rqEJylnuEwMFISDk-ryrCF7myoJpFkvk-kEGXBKA59wLRcUec2-bKQLe0edhtJVEJlw0hhFrylgdTZXJFhiyjn6zcktKVmNDu4CCBSWael8fZ2ax8sI7EK2i70wfBoOtmDMzFAVl3UTMHUNNlsQwCw.webp",
+    "imageSource": "https://namu.wiki/w/%EC%8B%A0%EC%9D%84%20%EB%A8%B9%EB%8A%94%20%ED%81%B0%20%EB%B1%80",
+    "details": {
+      "region": "화산관",
+      "rewards": "130,000룬(NG)260,000룬(NG+)모독의 군주의 추억라이커드의 거대한 룬",
+      "assetId": "asset-76b5e0d41c5037fbf744513a3080ba15"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8B%A0%EC%9D%84%20%EB%A8%B9%EB%8A%94%20%ED%81%B0%20%EB%B1%80",
+        "checkedAt": "2026-10-06T12:58:25.952Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-glintstone-dragon-smarag",
+    "nameKo": "휘석룡 스마라그",
+    "nameEn": "Glintstone Dragon Smarag",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/UpBMKPAfJhqV8q0yVY2Uv7HjL7Hp7lQd_Fwlszbpne2w5W6ETrnIx4vcfFFbGpdmLYivrBRcNKmr6M16Bnf2PALRRSUTkIys5heUe0gMnNsoMzr9wTgvKjIxeiysVpMQZZzi2Z6CzoIMsdC3Dz58rg.webp",
+    "imageSource": "https://namu.wiki/w/%ED%9C%98%EC%84%9D%EB%A3%A1%20%EC%8A%A4%EB%A7%88%EB%9D%BC%EA%B7%B8",
+    "details": {
+      "rewards": "100,000룬[23]120,000룬[24]용의 심장고룡의 색 잃은 단석",
+      "assetId": "asset-4ab511ab93ba7ce6fc320d97092ae84d"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%9C%98%EC%84%9D%EB%A3%A1%20%EC%8A%A4%EB%A7%88%EB%9D%BC%EA%B7%B8",
+        "checkedAt": "2026-10-06T12:58:27.782Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-glintstone-dragon-adula",
+    "nameKo": "휘석룡 아듀라",
+    "nameEn": "Glintstone Dragon Adula",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/UpBMKPAfJhqV8q0yVY2Uv7HjL7Hp7lQd_Fwlszbpne2w5W6ETrnIx4vcfFFbGpdmLYivrBRcNKmr6M16Bnf2PALRRSUTkIys5heUe0gMnNsoMzr9wTgvKjIxeiysVpMQZZzi2Z6CzoIMsdC3Dz58rg.webp",
+    "imageSource": "https://namu.wiki/w/%ED%9C%98%EC%84%9D%EB%A3%A1%20%EC%95%84%EB%93%80%EB%9D%BC",
+    "details": {
+      "rewards": "100,000룬[23]120,000룬[24]용의 심장고룡의 색 잃은 단석",
+      "assetId": "asset-4ab511ab93ba7ce6fc320d97092ae84d"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%9C%98%EC%84%9D%EB%A3%A1%20%EC%95%84%EB%93%80%EB%9D%BC",
+        "checkedAt": "2026-10-06T12:58:29.964Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-godrick-the-grafted",
+    "nameKo": "접목의 고드릭",
+    "nameEn": "Godrick The Grafted",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/BhtrGiJ_CoiXNALPHyAMwjx_tFk4yQ8xnoc2lMBQ6xu-Z1nUJxGoYeGwM0VbIP4XWMIDNCIZ_3dFspAGa-9ci7f0xFOuEuw5PaaE5tbq7BeLkICyPlVGsQJ9ylFzw9nqFlKZA4yPsbgL1mJBIabu2g.webp",
+    "imageSource": "https://namu.wiki/w/%EC%A0%91%EB%AA%A9%EC%9D%98%20%EA%B3%A0%EB%93%9C%EB%A6%AD",
+    "details": {
+      "region": "스톰빌 성",
+      "rewards": "26000룬고드프리의 초상",
+      "assetId": "asset-3a89402ce373fc5083ae6b4bf48f050d"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%A0%91%EB%AA%A9%EC%9D%98%20%EA%B3%A0%EB%93%9C%EB%A6%AD",
+        "checkedAt": "2026-10-06T12:58:32.006Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-godskin-apostle",
+    "nameKo": "신의 살갗의 사도",
+    "nameEn": "Godskin Apostle",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/yxtt_BSgoB3iCjD7TQOfF7G8u-Jgvv09JtAvb0v9QvczT-uxvpKa2EoTt7FnQ110B8Z2E0M_1NtW1EYmXFoH0xxLDbd23yf_RqmUoEFt1Bgt2z-TLsGIy156vwNMlI5vqk9mcBG5tg3sYlteDV4b4g.webp",
+    "imageSource": "https://namu.wiki/w/%EC%8B%A0%EC%9D%98%20%EC%82%B4%EA%B0%97%EC%9D%98%20%EC%82%AC%EB%8F%84",
+    "details": {
+      "rewards": "94,000 룬신의 살갗의 사도 후드신의 살갗의 사도 로브사도의 팔찌사도의 바지[1]14,000 룬신의 살갗 쌍날검쓸어버리는 흑염[2]",
+      "assetId": "asset-ca77e8e82ba30428b6e2babc1eb951da"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8B%A0%EC%9D%98%20%EC%82%B4%EA%B0%97%EC%9D%98%20%EC%82%AC%EB%8F%84",
+        "checkedAt": "2026-10-06T12:58:33.575Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-death-rite-bird",
+    "nameKo": "죽음 의례의 새",
+    "nameEn": "Death Rite Bird",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "7,800룬 / 옛 죽음의 영혼[1]15,000룬 / 죽음부지깽이[2]77,000룬 / 죽음 의례의 창[3]220,000룬 / 폭발하는 영혼 화염[4]230,000룬 / 전회 「영혼 불꽃 부르기」[5]"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%A3%BD%EC%9D%8C%20%EC%9D%98%EB%A1%80%EC%9D%98%20%EC%83%88",
+        "checkedAt": "2026-10-06T12:58:35.230Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-godskin-apostle-17f69b45",
+    "nameKo": "신의 살갗의 사도",
+    "nameEn": "Godskin Apostle",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/yxtt_BSgoB3iCjD7TQOfF7G8u-Jgvv09JtAvb0v9QvczT-uxvpKa2EoTt7FnQ110B8Z2E0M_1NtW1EYmXFoH0xxLDbd23yf_RqmUoEFt1Bgt2z-TLsGIy156vwNMlI5vqk9mcBG5tg3sYlteDV4b4g.webp",
+    "imageSource": "https://namu.wiki/w/%EC%8B%A0%EC%9D%98%20%EC%82%B4%EA%B0%97%EC%9D%98%20%EC%82%AC%EB%8F%84",
+    "details": {
+      "rewards": "94,000 룬신의 살갗의 사도 후드신의 살갗의 사도 로브사도의 팔찌사도의 바지[1]14,000 룬신의 살갗 쌍날검쓸어버리는 흑염[2]",
+      "assetId": "asset-ca77e8e82ba30428b6e2babc1eb951da"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8B%A0%EC%9D%98%20%EC%82%B4%EA%B0%97%EC%9D%98%20%EC%82%AC%EB%8F%84",
+        "checkedAt": "2026-10-06T12:58:36.855Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-godskin-noble",
+    "nameKo": "신의 살갗의 귀인",
+    "nameEn": "Godskin Noble",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/K7p084Opl0eBPeCcQ3p-7NUm8vex1xO5IdOlcSGiGYbdicE3EoDcDK621A1liSWp_IotptFqMbRw7HmMBBrmlckTZMfiwA14HBdgR9yqZiUdXASfEc22yjb3dnp2E6jE-Uubo2AOjRNCd8nCDlzXaw.webp",
+    "imageSource": "https://namu.wiki/w/%EC%8B%A0%EC%9D%98%20%EC%82%B4%EA%B0%97%EC%9D%98%20%EA%B7%80%EC%9D%B8",
+    "details": {
+      "rewards": "50,000 룬귀족의 배짱신의 살갗 대자검",
+      "assetId": "asset-db14d7ddf88f16ba7608d54aae366737"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8B%A0%EC%9D%98%20%EC%82%B4%EA%B0%97%EC%9D%98%20%EA%B7%80%EC%9D%B8",
+        "checkedAt": "2026-10-06T12:58:38.437Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-grafted-scion",
+    "nameKo": "접목의 귀공자",
+    "nameEn": "Grafted Scion",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/rmSUjtjrmDzm7ZYV_m30xc8KrUliqCOZEAElNfgABlkK6ZHHt8fIYK61gkXyRiX3ea0iKb7enHyPlHwisEieDex_H7iOsAKg-YbaNpfl5AmugKE8UIvGiT86SZtL3-uAEyEwkYOLFskqpuiajgCJow.webp",
+    "imageSource": "https://namu.wiki/w/%EC%A0%91%EB%AA%A9%EC%9D%98%20%EA%B7%80%EA%B3%B5%EC%9E%90",
+    "details": {
+      "rewards": "3200룬의장 직검짐승 문양 황금 방패",
+      "assetId": "asset-f7ef8d0e21040963807f6d2d10ed59c8"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%A0%91%EB%AA%A9%EC%9D%98%20%EA%B7%80%EA%B3%B5%EC%9E%90",
+        "checkedAt": "2026-10-06T12:58:39.982Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-leonine-misbegotten",
+    "nameKo": "사자 혼종",
+    "nameEn": "Leonine Misbegotten",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/HKApBS9fsas-02pFi_rOwm1GZvpkaLyWCJU9XukKuYLgZeBzJzsITYDR30MmvfepIBmpW6symmDkyV3uBLWqdPAhbRSyXk6Zope71IirUyoclP4WWLTlNBmmGBKKTkr1Nlr7gQRLL6JhQunUDGhwzg.webp",
+    "imageSource": "https://namu.wiki/w/%EC%82%AC%EC%9E%90%20%ED%98%BC%EC%A2%85",
+    "details": {
+      "rewards": "93,000룬황금률의 대검",
+      "assetId": "asset-0169033dd81b3ca58b90af448b1ad7a7"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%82%AC%EC%9E%90%20%ED%98%BC%EC%A2%85",
+        "checkedAt": "2026-10-06T12:58:41.561Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-lichdragon-fortissax",
+    "nameKo": "사룡 포르삭스",
+    "nameEn": "Lichdragon Fortissax",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/GpAO3agm58z9CVS19SlLL4Ae0MBga02inste1MZ6xhd3ZYwOWgZ2oGcpsp3wndcGJCF6GcJlMLyVxBIEZjruz7TQ3zAXFXKG-yO-qck-kCaWQcElyKOpLlV7jIcV55wSoE5a3N2l3tJ2KuLFTjpFLg.webp",
+    "imageSource": "https://namu.wiki/w/%EC%82%AC%EB%A3%A1%20%ED%8F%AC%EB%A5%B4%EC%82%AD%EC%8A%A4",
+    "details": {
+      "rewards": "90,000룬(NG)270,000룬(NG+)사룡의 추억",
+      "assetId": "asset-92cfe8a340bb273f2f0dadfe941148d4"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%82%AC%EB%A3%A1%20%ED%8F%AC%EB%A5%B4%EC%82%AD%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:58:43.127Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-magma-wyrm",
+    "nameKo": "용암토룡",
+    "nameEn": "Magma Wyrm",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/GzC_AXW9PquLdYzJlwQDjvw9XgFpz9K9bbVzF_h4GtiQ-0NKL3V6bVEuxUoW5kDlsfX6_JRh0HRtV9tUhp7OH1hYFMI-gOKSXBab2UwoRudCn0mmlkYlCvyY35zVFJG_nILEest_6Bu-GvySClVo1w.webp",
+    "imageSource": "https://namu.wiki/w/%EC%9A%A9%EC%95%94%ED%86%A0%EB%A3%A1",
+    "details": {
+      "region": "구별된 설원",
+      "rewards": "180,000룬용의 심장 x3",
+      "assetId": "asset-3859e784165b3f60a95166e529a3601a"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%9A%A9%EC%95%94%ED%86%A0%EB%A3%A1",
+        "checkedAt": "2026-10-06T12:58:44.893Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-malenia-blade-of-miquella",
+    "nameKo": "미켈라의 칼날 말레니아",
+    "nameEn": "Malenia, Blade Of Miquella",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/U9pxvgXkVEd_I-YX1vszWHqc_IBp5RJekZBYr2ntITFrbpvh2DwRIaEI3Qr51YFRfIahqb5kueGTOfSe2KUFjtFuqnlj5MwAEh0UrrMttF7v7mpjR24TDO__4zUtKZmCYFaKfHQToGQsh5ZZVXlMew.webp",
+    "imageSource": "https://namu.wiki/w/%EB%AF%B8%EC%BC%88%EB%9D%BC%EC%9D%98%20%EC%B9%BC%EB%82%A0%20%EB%A7%90%EB%A0%88%EB%8B%88%EC%95%84",
+    "details": {
+      "rewards": "480,000룬(NG)960,000룬(NG+)말레니아의 거대한 룬부패의 여신의 추억",
+      "assetId": "asset-379cee3407f9336cd6d4c48bc476877c"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AF%B8%EC%BC%88%EB%9D%BC%EC%9D%98%20%EC%B9%BC%EB%82%A0%20%EB%A7%90%EB%A0%88%EB%8B%88%EC%95%84",
+        "checkedAt": "2026-10-06T12:58:46.725Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-maliketh-the-black-blade",
+    "nameKo": "흑검 말리케스",
+    "nameEn": "Maliketh, The Black Blade",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/gxSbALiXDk2X6NV_A3OtDdP0nQFhTL_dId3egvX8HCxsZM9Q2dVNwXF7I7NfSl0-2Xu9d5Ft35zxW08dvuMtVSr9utx4t3WacDzgSdGBWn_joMSeMEkRleMoRsfxpMcpMysbgWqvVLj_QklQHedsVw.webp",
+    "imageSource": "https://namu.wiki/w/%ED%9D%91%EA%B2%80%20%EB%A7%90%EB%A6%AC%EC%BC%80%EC%8A%A4",
+    "details": {
+      "region": "무너지는 파름 아즈라",
+      "rewards": "220,000룬(NG)440,000룬(NG+)흑검의 추억",
+      "assetId": "asset-8c75ea48726909f31983fea936e0e0da"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%9D%91%EA%B2%80%20%EB%A7%90%EB%A6%AC%EC%BC%80%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:58:48.437Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-mimic-tear",
+    "nameKo": "화신의 물방울",
+    "nameEn": "Mimic Tear",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/eQclssJWVxg03TosKcqV9cqiDYeFZM7ll-xwKjifhZVupY8sjrGErupZQWnBPbWLikSO-cA9m1Ex_d_zEVeML1bol33GRVhkr67mUbNOm912sRqG0GukXZOZE5ztsKDAfZqsXOIS3raWDzEDQ61OgQ.webp",
+    "imageSource": "https://namu.wiki/w/%ED%99%94%EC%8B%A0%EC%9D%98%20%EB%AC%BC%EB%B0%A9%EC%9A%B8",
+    "details": {
+      "rewards": "50000룬흑염 승병 아몬",
+      "assetId": "asset-50f5b7ba9a476309cbf28643967b9d39"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%99%94%EC%8B%A0%EC%9D%98%20%EB%AC%BC%EB%B0%A9%EC%9A%B8",
+        "checkedAt": "2026-10-06T12:58:49.964Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-mohg-lord-of-blood",
+    "nameKo": "피의 군주 모그",
+    "nameEn": "Mohg, Lord Of Blood",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/iH0rpUcuZGGJCrRAVsBYo9uxw90PqoraPpSi1jE9PsKnLLTCotO-jAzB4ZHjUiV9XDP6VgmSQ4kxwamb8NEQFPdY9jHRNi2uC7aaJkDo3LClDjmso6Wdi2Zpv95i_tGYlFuVD9swCdI3ekIEAwEEcQ.webp",
+    "imageSource": "https://namu.wiki/w/%ED%94%BC%EC%9D%98%20%EA%B5%B0%EC%A3%BC%20%EB%AA%A8%EA%B7%B8",
+    "details": {
+      "rewards": "420,000룬(NG)840,000룬(NG+)모그의 거대한 룬피의 군주의 추억",
+      "assetId": "asset-126cc94bcd290d82c7c7a8a87ad829af"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%94%BC%EC%9D%98%20%EA%B5%B0%EC%A3%BC%20%EB%AA%A8%EA%B7%B8",
+        "checkedAt": "2026-10-06T12:58:51.893Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-mohg-the-omen",
+    "nameKo": "흉조의 아이 모그",
+    "nameEn": "Mohg, The Omen",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/4r57I5KJMlTCNzLpBxCevCdZdXRtsKEKs_JgW8FC8o42oob84qqKJMa4pbb2BcsEkSSWuenZHBpJFsNJNsITHalVx1zvI_njmnP_ZO0jumQPu7NLltOS6iUuk1WzfNEJTNnPiTjdcruGV3t6GkE0Ig.webp",
+    "imageSource": "https://namu.wiki/w/%ED%9D%89%EC%A1%B0%EC%9D%98%20%EC%95%84%EC%9D%B4%20%EB%AA%A8%EA%B7%B8",
+    "details": {
+      "rewards": "420,000룬(NG)840,000룬(NG+)모그의 거대한 룬피의 군주의 추억",
+      "assetId": "asset-1fb0c0e07d89b84a0528e7a373d64541"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%9D%89%EC%A1%B0%EC%9D%98%20%EC%95%84%EC%9D%B4%20%EB%AA%A8%EA%B7%B8",
+        "checkedAt": "2026-10-06T12:58:53.845Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-magma-wyrm-makar",
+    "nameKo": "용암토룡 마카르",
+    "nameEn": "Magma Wyrm Makar",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/GzC_AXW9PquLdYzJlwQDjvw9XgFpz9K9bbVzF_h4GtiQ-0NKL3V6bVEuxUoW5kDlsfX6_JRh0HRtV9tUhp7OH1hYFMI-gOKSXBab2UwoRudCn0mmlkYlCvyY35zVFJG_nILEest_6Bu-GvySClVo1w.webp",
+    "imageSource": "https://namu.wiki/w/%EC%9A%A9%EC%95%94%ED%86%A0%EB%A3%A1%20%EB%A7%88%EC%B9%B4%EB%A5%B4",
+    "details": {
+      "region": "구별된 설원",
+      "rewards": "180,000룬용의 심장 x3",
+      "assetId": "asset-3859e784165b3f60a95166e529a3601a"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%9A%A9%EC%95%94%ED%86%A0%EB%A3%A1%20%EB%A7%88%EC%B9%B4%EB%A5%B4",
+        "checkedAt": "2026-10-06T12:58:55.520Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-night-s-cavalry",
+    "nameKo": "밤 기병",
+    "nameEn": "Night's Cavalry",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B0%A4%20%EA%B8%B0%EB%B3%91",
+        "checkedAt": "2026-10-06T12:58:57.088Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-putrid-tree-spirit",
+    "nameKo": "부패한 나무령",
+    "nameEn": "Putrid Tree Spirit",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/BWvC29VR7LQ_0iIu1LfYAFpVzxOqP022eyptBc8g6vRKollqkVZgFJatIYOkevzOG-x5cawtGTnGnA0V0y0Lyug7LHXNbhgzfvNGv60BR3iffjoGi7b5CgPMnAfGRTF7l4fn9UZJkz9CEhTE0cMAGg.webp",
+    "imageSource": "https://namu.wiki/w/%EB%B6%80%ED%8C%A8%ED%95%9C%20%EB%82%98%EB%AC%B4%EB%A0%B9",
+    "details": {
+      "rewards": "64,000룬황금종자적사자기사 오우가",
+      "assetId": "asset-6b1febb2841adeb9f754788ce4fd29f7"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B6%80%ED%8C%A8%ED%95%9C%20%EB%82%98%EB%AC%B4%EB%A0%B9",
+        "checkedAt": "2026-10-06T12:58:58.787Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-radagon-of-the-golden-order",
+    "nameKo": "황금률 라다곤",
+    "nameEn": "Radagon Of The Golden Order",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/7eNVwJpqTku0PPbRHgAfu5-LMSMQgvldF5IUFO2vX5DJhAJup_Lkfb3uhcVysRZYmwveq7cPIQ4FVVE5VziBO_kiWG1lot-Gg3EUW6mlVnvgSnRMNXoQPGRDg94Q764vrfEhjA64xjhdzJpTKvXh3A.webp",
+    "imageSource": "https://namu.wiki/w/%ED%99%A9%EA%B8%88%EB%A5%A0%20%EB%9D%BC%EB%8B%A4%EA%B3%A4",
+    "details": {
+      "assetId": "asset-9799d5ba0e997da2e7d2ac3ba874a98a"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%99%A9%EA%B8%88%EB%A5%A0%20%EB%9D%BC%EB%8B%A4%EA%B3%A4",
+        "checkedAt": "2026-10-06T12:59:00.699Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-red-wolf-of-radagon",
+    "nameKo": "라다곤의 붉은 늑대",
+    "nameEn": "Red Wolf Of Radagon",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/i_7kpHr65fXhXn_lBAr94ZxRfJZbbizVoVfbFKQR2EfxqTUki64Tt-vxlq7ENnYexKGO2D2z87DNP8mdkisevoby3R7QVdqPh2WcnAgChklkc-HaTCuMnA7JYSKwBQt4OgIk9LeCUekbjRdMNLjSaQ.webp",
+    "imageSource": "https://namu.wiki/w/%EB%9D%BC%EB%8B%A4%EA%B3%A4%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%8A%91%EB%8C%80",
+    "details": {
+      "rewards": "21000룬사냥개기사 플로",
+      "assetId": "asset-acc5f1960a5592a1148c340d389974b0"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%9D%BC%EB%8B%A4%EA%B3%A4%EC%9D%98%20%EB%B6%89%EC%9D%80%20%EB%8A%91%EB%8C%80",
+        "checkedAt": "2026-10-06T12:59:02.382Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-regal-ancestor-spirit",
+    "nameKo": "선조령의 왕",
+    "nameEn": "Regal Ancestor Spirit",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/E0Fv2p3gmyewVaRDcoYz3yOjBo2mjhGL7oBwY6Gm_Qv-th1_azuPXFkbCSDXhipaGHVQM9GHyV3fBKm_QZJftxqlrr0tHvFjAXF7xrO0Nzcqp16NV75uONqpBjwkzE0kQ2qDf84OeF8ypijZESsV6g.webp",
+    "imageSource": "https://namu.wiki/w/%EC%84%A0%EC%A1%B0%EB%A0%B9%EC%9D%98%20%EC%99%95",
+    "details": {
+      "rewards": "13,000룬선조령의 백성의 뼛가루",
+      "assetId": "asset-61e3850237a3866f7047cecc8314bf50"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%84%A0%EC%A1%B0%EB%A0%B9%EC%9D%98%20%EC%99%95",
+        "checkedAt": "2026-10-06T12:59:04.116Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-royal-knight-loretta",
+    "nameKo": "친위기사 로레타",
+    "nameEn": "Royal Knight Loretta",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/N269j_jThiJTk0zcjBH5Tc-kIkGxEz_NMfQdF4gTgAk1WszQ4aPOAuAmzrWYtDt-5pbK1V0fAQ8WX2SdufMSOQsK88UGBhw-V12LnXSgkrYiy8_5VBPmRcJzizNvr-tKEF-NznXtkTRNbWaqv-4Osg.webp",
+    "imageSource": "https://namu.wiki/w/%EC%B9%9C%EC%9C%84%EA%B8%B0%EC%82%AC%20%EB%A1%9C%EB%A0%88%ED%83%80",
+    "details": {
+      "rewards": "200,000룬로레타의 묘기로레타의 전투 낫",
+      "assetId": "asset-a2df72e1bdc63695141b97be8b543dee"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%B9%9C%EC%9C%84%EA%B8%B0%EC%82%AC%20%EB%A1%9C%EB%A0%88%ED%83%80",
+        "checkedAt": "2026-10-06T12:59:06.013Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-rykard-lord-of-blasphemy",
+    "nameKo": "모독의 군주 라이커드",
+    "nameEn": "Rykard, Lord Of Blasphemy",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/TeL9jke-M5kBKHKCC-JCtxc6U_rNClGhfyty9GFxiVeKyIYeV4ckcdTXfffnuqa_wOWbzKNqBaLIuK-wqqYNkarwqCgZN3EEsddwRUjArZrta-F6GYQl3nhfcnUnbvRonjJ3rB9ZHVoVu3Xfv-MMMQ.webp",
+    "imageSource": "https://namu.wiki/w/%EB%AA%A8%EB%8F%85%EC%9D%98%20%EA%B5%B0%EC%A3%BC%20%EB%9D%BC%EC%9D%B4%EC%BB%A4%EB%93%9C",
+    "details": {
+      "region": "화산관",
+      "rewards": "130,000룬(NG)260,000룬(NG+)모독의 군주의 추억라이커드의 거대한 룬",
+      "assetId": "asset-2b86f02affb32de4fb68e243f0625c50"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AA%A8%EB%8F%85%EC%9D%98%20%EA%B5%B0%EC%A3%BC%20%EB%9D%BC%EC%9D%B4%EC%BB%A4%EB%93%9C",
+        "checkedAt": "2026-10-06T12:59:07.699Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-soldier-of-godrick",
+    "nameKo": "고드릭의 군병",
+    "nameEn": "Soldier Of Godrick",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "runes": "400룬"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B3%A0%EB%93%9C%EB%A6%AD%EC%9D%98%20%EA%B5%B0%EB%B3%91",
+        "checkedAt": "2026-10-06T12:59:09.240Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-starscourge-radahn",
+    "nameKo": "별 부수는 라단",
+    "nameEn": "Starscourge Radahn",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/wu6ztUGHJgXQspsoDDHFAIMElvHp30udOhxG9VqHKNtE5Nv19OKSmNAbHapVDJfgrkV2eAHMdFYQCA4Rf34A6mqMA2d4mHBD3IvA5AjRFn7PsdymyA1AGWGMCkCN_LYRqUX7kQ6Iqdcl6jdcagRoYg.webp",
+    "imageSource": "https://namu.wiki/w/%EB%B3%84%20%EB%B6%80%EC%88%98%EB%8A%94%20%EB%9D%BC%EB%8B%A8",
+    "details": {
+      "region": "케일리드 - 통곡 사구",
+      "rewards": "70,000룬(NG)210,000룬(NG+)별 부수기의 추억라단의 거대한 룬",
+      "assetId": "asset-20dd571a9481e51cc3b2ab7dffc3a413"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B3%84%20%EB%B6%80%EC%88%98%EB%8A%94%20%EB%9D%BC%EB%8B%A8",
+        "checkedAt": "2026-10-06T12:59:10.932Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-tibia-mariner",
+    "nameKo": "티비아의 배",
+    "nameEn": "Tibia Mariner",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "2,400룬, 사근, 민병 스켈레톤의 뼛가루 (림그레이브)4,700룬, 사근, 산적 스켈레톤의 뼛가루 (호수의 리에니에)14,000룬, 사근, 티비아의 부름 (알터 고원)4,700룬, 사근, 헬펜의 첨탑 (거인들의 산령)[2]"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%8B%B0%EB%B9%84%EC%95%84%EC%9D%98%20%EB%B0%B0",
+        "checkedAt": "2026-10-06T12:59:12.643Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-ulcerated-tree-spirit",
+    "nameKo": "문드러진 나무령",
+    "nameEn": "Ulcerated Tree Spirit",
+    "category": "bosses",
+    "content_type": "base_game",
+    "details": {
+      "rewards": "64,000룬황금종자적사자기사 오우가"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AC%B8%EB%93%9C%EB%9F%AC%EC%A7%84%20%EB%82%98%EB%AC%B4%EB%A0%B9",
+        "checkedAt": "2026-10-06T12:59:14.234Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-valiant-gargoyle",
+    "nameKo": "영웅의 가고일",
+    "nameEn": "Valiant Gargoyle",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/vH8MIuweMx0v90MOBpPEPquE11XtL5W4MBGWU4NWX-iV8gtbwDsvD2ioc7qO-zqw0QKBNP2QGykwtzDY52glw9u7homOIXCiKLuVTLWLZLZpi_VsfXDaGEVVCZ-VE0nbdo3PnsKJb-eVrut2QuWSTQ.webp",
+    "imageSource": "https://namu.wiki/w/%EC%98%81%EC%9B%85%EC%9D%98%20%EA%B0%80%EA%B3%A0%EC%9D%BC",
+    "details": {
+      "rewards": "30,000룬가고일의 대검가고일의 쌍날검",
+      "assetId": "asset-f6279a98325128a317642361988fd374"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%98%81%EC%9B%85%EC%9D%98%20%EA%B0%80%EA%B3%A0%EC%9D%BC",
+        "checkedAt": "2026-10-06T12:59:15.855Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-tree-sentinel",
+    "nameKo": "트리 가드",
+    "nameEn": "Tree Sentinel",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/BuT665M7eNR___5q2qMoC2AIuJfdmm4CVB_Y0Rgb8Oax_5LY9w3TeCciiOhFD6Zizsj-LcVNP2UYku846aafqtma26At56oAIv33r5FVwAWSHI2yIZwk1sr4bpM2OUAMfr3zUgV9SBrPWAf22MxYXg.webp",
+    "imageSource": "https://namu.wiki/w/%ED%8A%B8%EB%A6%AC%20%EA%B0%80%EB%93%9C",
+    "details": {
+      "region": "림그레이브도읍 로데일",
+      "rewards": "3,200룬도끼창 - 황금 할버드 [1]20,000룬영웅의 룬 [1]대형 방패 - 황금 나무의 대형 방패[2]120,000룬마리카의 축복 × 2[3]",
+      "assetId": "asset-0625ae6dadbcc47edf3440396df9de16"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%8A%B8%EB%A6%AC%20%EA%B0%80%EB%93%9C",
+        "checkedAt": "2026-10-06T12:59:17.543Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-sellia-town-of-sorcery",
+    "nameKo": "마술도시 사리아",
+    "nameEn": "Sellia, Town Of Sorcery",
+    "category": "locations",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/jAGkvxONT-sYa_BAzP6nqNMePLEZ44zuHbbA-rehrVCE4RRPGgobIQ1Lu8ygNY0BO9Nv6DZcqBLOIEHxYcSR9D7vBkbPVXWhKEW-62q4FCO02DuTyXQH2MPU_yZr4_p-eKxOpu4gSLR9eqUKnPvNCw.webp",
+    "imageSource": "https://namu.wiki/w/%EB%A7%88%EC%88%A0%EB%8F%84%EC%8B%9C%20%EC%82%AC%EB%A6%AC%EC%95%84",
+    "details": {
+      "assetId": "asset-161c51cfa854ce2d5b0039e272762886"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%A7%88%EC%88%A0%EB%8F%84%EC%8B%9C%20%EC%82%AC%EB%A6%AC%EC%95%84",
+        "checkedAt": "2026-10-06T12:59:19.489Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-leyndell-royal-capital",
+    "nameKo": "도읍 로데일",
+    "nameEn": "Leyndell, Royal Capital",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%8F%84%EC%9D%8D%20%EB%A1%9C%EB%8D%B0%EC%9D%BC",
+        "checkedAt": "2026-10-06T12:59:21.014Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-merchant-kal",
+    "nameKo": "방랑 상인 칼레",
+    "nameEn": "Merchant Kalé",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B0%A9%EB%9E%91%20%EC%83%81%EC%9D%B8%20%EC%B9%BC%EB%A0%88",
+        "checkedAt": "2026-10-06T12:59:22.449Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-roderika",
+    "nameKo": "로데리카",
+    "nameEn": "Roderika",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/-JrtRpchFU0IQVP4M_oJfuYSB-t3oJNZDveCQO2MRoL6WwrxrwokEY_IzTw7yqsEH2xugkskaxSAZVLsLeFo3zlgsRAj3FHatZpifdeZj2FQ_6FLMRQ_us-O6tYUr97g5CuRd40G36YwQ4-dmguVUg.webp",
+    "imageSource": "https://namu.wiki/w/%EB%A1%9C%EB%8D%B0%EB%A6%AC%EC%B9%B4",
+    "details": {
+      "assetId": "asset-f230c2af28c8ccea18869072c40874fb"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%A1%9C%EB%8D%B0%EB%A6%AC%EC%B9%B4",
+        "checkedAt": "2026-10-06T12:59:24.000Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-thops",
+    "nameKo": "토푸스",
+    "nameEn": "Thops",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/3_I874XAQQVa9gh191lIv708h_j4sJmN7tI_Pf5h1Qx3Fxr4_D2ELEnVwfwrzn8OqOuNBDlf7FIbbHIagKUVBip7Sqc9meJenTlVHCpIlu__PvVXjCAMBUcPmOyL308aTY1xvvHMtO1XhTVpZZ32pA.webp",
+    "imageSource": "https://namu.wiki/w/%ED%86%A0%ED%91%B8%EC%8A%A4",
+    "details": {
+      "assetId": "asset-eeb56fede8df4d212fa6712954db415e"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%86%A0%ED%91%B8%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:59:25.525Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-enia",
+    "nameKo": "손가락 읽는 엔야",
+    "nameEn": "Enia",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/w9kytuVhQJmQU1VZG4GPSDyU4GI1lGUqoNyxmhe-u8uVaKoXHJcuQgynWjHiDfbe5jQy4aXdow-J6Ku_G0wa6e0VANo2sUfSppX0X3oaXinmT2YZRMRAufT_UgVXGBpBNU0FxBsWvqo16vE5cKaJFg.webp",
+    "imageSource": "https://namu.wiki/w/%EC%86%90%EA%B0%80%EB%9D%BD%20%EC%9D%BD%EB%8A%94%20%EC%97%94%EC%95%BC",
+    "details": {
+      "assetId": "asset-dca124c62233fa3f02ae23c63451fe1a"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%86%90%EA%B0%80%EB%9D%BD%20%EC%9D%BD%EB%8A%94%20%EC%97%94%EC%95%BC",
+        "checkedAt": "2026-10-06T12:59:27.129Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-sorcerer-rogier",
+    "nameKo": "마술사 로지에르",
+    "nameEn": "Sorcerer Rogier",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%A7%88%EC%88%A0%EC%82%AC%20%EB%A1%9C%EC%A7%80%EC%97%90%EB%A5%B4",
+        "checkedAt": "2026-10-06T12:59:28.550Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-gurranq-beast-clergyman",
+    "nameKo": "짐승 사제 그랭",
+    "nameEn": "Gurranq, Beast Clergyman",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%A7%90%EC%8A%B9%20%EC%82%AC%EC%A0%9C%20%EA%B7%B8%EB%9E%AD",
+        "checkedAt": "2026-10-06T12:59:30.096Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-d-hunter-of-the-dead",
+    "nameKo": "죽음을 사냥하는 자 D",
+    "nameEn": "D, Hunter Of The Dead",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%A3%BD%EC%9D%8C%EC%9D%84%20%EC%82%AC%EB%83%A5%ED%95%98%EB%8A%94%20%EC%9E%90%20D#%EC%A3%BD%EC%9D%8C%EC%9D%84%20%EB%B3%B8%20%EC%9E%90%20D",
+        "checkedAt": "2026-10-06T12:59:31.546Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-white-faced-varr",
+    "nameKo": "백면 바레",
+    "nameEn": "White-faced Varré",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B0%B1%EB%A9%B4%20%EB%B0%94%EB%A0%88",
+        "checkedAt": "2026-10-06T12:59:33.055Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-kenneth-haight",
+    "nameKo": "케네스 하이트",
+    "nameEn": "Kenneth Haight",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%BC%80%EB%84%A4%EC%8A%A4%20%ED%95%98%EC%9D%B4%ED%8A%B8",
+        "checkedAt": "2026-10-06T12:59:34.478Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-gideon-ofnir",
+    "nameKo": "기드온 오프닐",
+    "nameEn": "Gideon Ofnir",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/UAvTXLkuE_pYXCAapiPM7LMN1JSr4_gWesMY9x_e1Bc8D76svujv8MTRfKfehvmsgCw5K0EpygE8UjJN8kcC7jl5-Wf2LcaP2aW-ovss4u7HZdN920W6XsViC4ZeMCiOKyITbCoVm6oAFO44S7n7Eg.webp",
+    "imageSource": "https://namu.wiki/w/%EA%B8%B0%EB%93%9C%EC%98%A8%20%EC%98%A4%ED%94%84%EB%8B%90",
+    "details": {
+      "region": "재의 도읍 로데일 황금 나무의 대성당",
+      "rewards": "150,000룬온 지혜의 왕홀온 지혜의 투구온 지혜의 갑옷온 지혜의 장갑온 지혜의 각반",
+      "assetId": "asset-c3c12f0ffb3609eb38f79c405846b80b"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B8%B0%EB%93%9C%EC%98%A8%20%EC%98%A4%ED%94%84%EB%8B%90",
+        "checkedAt": "2026-10-06T12:59:36.264Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-nepheli-loux",
+    "nameKo": "네펠리 루",
+    "nameEn": "Nepheli Loux",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/kW4q8c2-sRusW5AXD5Lvssgf4-rwqKj-TcJA7Af2z9QkNS1D5q431sfUMrZ3Z06zZVEI_LkidghIe2mOoy-pmmlCcb8PIFPueEcwPzpJh-1OL0bbO_m_KNnGRhdZbUBZlOfXU_tdCW-EBFU-BaSydw.webp",
+    "imageSource": "https://namu.wiki/w/%EB%84%A4%ED%8E%A0%EB%A6%AC%20%EB%A3%A8",
+    "details": {
+      "assetId": "asset-60170cbe5da29997b1866cd5e1317896"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%84%A4%ED%8E%A0%EB%A6%AC%20%EB%A3%A8",
+        "checkedAt": "2026-10-06T12:59:37.774Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-dung-eater",
+    "nameKo": "대변 먹는 자",
+    "nameEn": "Dung Eater",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/JbSSd7XRCcFwEPYSFObWb8Da4Y1lhavhGcwVKbE0yxNoj6DroEjMhHPAsSnxfp1KfTANe3jpVOoQrXCGKXsptpSt53E3vAVyzVpGVhxRrInJzh9zNOtfsxvxwGgim9sWudShOljSqtqiYOKjwJ_9aw.webp",
+    "imageSource": "https://namu.wiki/w/%EB%8C%80%EB%B3%80%20%EB%A8%B9%EB%8A%94%20%EC%9E%90",
+    "details": {
+      "assetId": "asset-75cc184ebeffe90bff3733ea5f358594"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%8C%80%EB%B3%80%20%EB%A8%B9%EB%8A%94%20%EC%9E%90",
+        "checkedAt": "2026-10-06T12:59:39.204Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-preceptor-seluvis",
+    "nameKo": "셀브스",
+    "nameEn": "Preceptor Seluvis",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%85%80%EB%B8%8C%EC%8A%A4",
+        "checkedAt": "2026-10-06T12:59:40.711Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-blaidd",
+    "nameKo": "반 늑대 블라이드",
+    "nameEn": "Blaidd",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B0%98%20%EB%8A%91%EB%8C%80%20%EB%B8%94%EB%9D%BC%EC%9D%B4%EB%93%9C",
+        "checkedAt": "2026-10-06T12:59:42.135Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-millicent",
+    "nameKo": "밀리센트",
+    "nameEn": "Millicent",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%B0%80%EB%A6%AC%EC%84%BC%ED%8A%B8",
+        "checkedAt": "2026-10-06T12:59:43.753Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-shabriri",
+    "nameKo": "샤브리리",
+    "nameEn": "Shabriri",
+    "category": "npcs",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%83%A4%EB%B8%8C%EB%A6%AC%EB%A6%AC",
+        "checkedAt": "2026-10-06T12:59:45.395Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-goldmask",
+    "nameKo": "금가면 경",
+    "nameEn": "Goldmask",
+    "category": "npcs",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/eT40f90_fcFP-4kLyzS8KkEBLgrS-eONPMundNtG0E8S-VUY6xzyEpHM3dKCVtOZGA0H4IxiQlL1fovjgDMIaxw72UJrR1j_VQVr3IcQqg9U78NjrFszhZf2vH_YMtTaZi-an9I7W-M37sbPvONExA.webp",
+    "imageSource": "https://namu.wiki/w/%EA%B8%88%EA%B0%80%EB%A9%B4%20%EA%B2%BD",
+    "details": {
+      "assetId": "asset-81be6559b8b6c99204844cdd79293ad1"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B8%88%EA%B0%80%EB%A9%B4%20%EA%B2%BD",
+        "checkedAt": "2026-10-06T12:59:46.968Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-limgrave",
+    "nameKo": "림그레이브",
+    "nameEn": "Limgrave",
+    "category": "locations",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/VkpYwN6bgy0x4G9hJpRYpzEmOs_yvCsj2Q99SGxshu0qJhjjfGEe1lQLhGQmoUZBPBzENyU22WSKqDZ5C1ytV7tK9SqZ8slfkJAqdLBDvQ41WdkUhUb1tyYbXh6631VluJI_n6_jJn1LenH8LqvTFQ.webp",
+    "imageSource": "https://namu.wiki/w/%EB%A6%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%B8%8C",
+    "details": {
+      "assetId": "asset-6d193c4fc165dbcdaacd675714bc08a2"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%A6%BC%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%B8%8C",
+        "checkedAt": "2026-10-06T12:59:48.539Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-weeping-peninsula",
+    "nameKo": "흐느낌의 반도",
+    "nameEn": "Weeping Peninsula",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%9D%90%EB%8A%90%EB%82%8C%EC%9D%98%20%EB%B0%98%EB%8F%84",
+        "checkedAt": "2026-10-06T12:59:50.104Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-liurnia-of-the-lakes",
+    "nameKo": "호수의 리에니에",
+    "nameEn": "Liurnia of the Lakes",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%98%B8%EC%88%98%EC%9D%98%20%EB%A6%AC%EC%97%90%EB%8B%88%EC%97%90",
+        "checkedAt": "2026-10-06T12:59:51.804Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-caelid",
+    "nameKo": "케일리드",
+    "nameEn": "Caelid",
+    "category": "locations",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/dZj0tEMjf9Bw9Pi-xPysFicsGAJL1WEt4QZwcTVPCvunMxF02AXoE4jNl4o44Y-XIJc3kvFPcVo3mWBriVR7_-oGQElro6sjFtghy5_tfviSRD8NJBHk53iuhgVnws6cn7sjMNIZHAAzLM_OvGbUjQ.webp",
+    "imageSource": "https://namu.wiki/w/%EC%BC%80%EC%9D%BC%EB%A6%AC%EB%93%9C",
+    "details": {
+      "assetId": "asset-69756732b7471d06d6b9f4fafc28d467"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%BC%80%EC%9D%BC%EB%A6%AC%EB%93%9C",
+        "checkedAt": "2026-10-06T12:59:53.511Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-altus-plateau",
+    "nameKo": "알터 고원",
+    "nameEn": "Altus Plateau",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%95%8C%ED%84%B0%20%EA%B3%A0%EC%9B%90",
+        "checkedAt": "2026-10-06T12:59:55.078Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-mt-gelmir",
+    "nameKo": "겔미어 화산",
+    "nameEn": "Mt. Gelmir",
+    "category": "locations",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/tK9QIxSKoyXj9_ZA5c358s3JY7XaqSGoKbrgCG2Bh6jM2ErAC2HtB_QqVyx1g2V9vRlx623KSQOR9RwDKX6gyDud73JImzt9upnXhxu1IMrITgc8XOaqHXWyc5a8LTtoSazNe5B3lqiHYFZ3mjjlkA.webp",
+    "imageSource": "https://namu.wiki/w/%EA%B2%94%EB%AF%B8%EC%96%B4%20%ED%99%94%EC%82%B0",
+    "details": {
+      "assetId": "asset-8071b85974b967a3a4a7d88a27316ac4"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B2%94%EB%AF%B8%EC%96%B4%20%ED%99%94%EC%82%B0",
+        "checkedAt": "2026-10-06T12:59:56.646Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-mountaintops-of-the-giants",
+    "nameKo": "거인들의 산령",
+    "nameEn": "Mountaintops of the Giants",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B1%B0%EC%9D%B8%EB%93%A4%EC%9D%98%20%EC%82%B0%EB%A0%B9",
+        "checkedAt": "2026-10-06T12:59:58.213Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-miquella-s-haligtree",
+    "nameKo": "미켈라의 성수",
+    "nameEn": "Miquella's Haligtree",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AF%B8%EC%BC%88%EB%9D%BC%EC%9D%98%20%EC%84%B1%EC%88%98",
+        "checkedAt": "2026-10-06T12:59:59.750Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-siofra-river",
+    "nameKo": "시프라 강",
+    "nameEn": "Siofra River",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8B%9C%ED%94%84%EB%9D%BC%20%EA%B0%95",
+        "checkedAt": "2026-10-06T13:00:01.277Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-mohgwyn-palace",
+    "nameKo": "모그윈 왕조",
+    "nameEn": "Mohgwyn Palace",
+    "category": "locations",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/sKBPfod-yl_-0IyV_0bQ6K-WBwsiaLYs0lHNGaALWhKmIuuiTG2X8Q3oPakIIhAt2fsLpj3OI6l46qG8nPDs0vJUKLebeeG1iuygANAEI3uWRrkZc6gwiu6fedXtM2uBHIikVuBP7cmHvLYlf-ozYA.webp",
+    "imageSource": "https://namu.wiki/w/%EB%AA%A8%EA%B7%B8%EC%9C%88%20%EC%99%95%EC%A1%B0",
+    "details": {
+      "assetId": "asset-26e1e5a3cef0d8d1e1739a783d6ec2dd"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AA%A8%EA%B7%B8%EC%9C%88%20%EC%99%95%EC%A1%B0",
+        "checkedAt": "2026-10-06T13:00:02.798Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-roundtable-hold",
+    "nameKo": "원탁",
+    "nameEn": "Roundtable Hold",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%9B%90%ED%83%81",
+        "checkedAt": "2026-10-06T13:00:04.219Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-stormveil-castle",
+    "nameKo": "스톰빌 성",
+    "nameEn": "Stormveil Castle",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8A%A4%ED%86%B0%EB%B9%8C%20%EC%84%B1",
+        "checkedAt": "2026-10-06T13:00:05.724Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-academy-of-raya-lucaria",
+    "nameKo": "마술학원 레아 루카리아",
+    "nameEn": "Academy of Raya Lucaria",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%A7%88%EC%88%A0%ED%95%99%EC%9B%90%20%EB%A0%88%EC%95%84%20%EB%A3%A8%EC%B9%B4%EB%A6%AC%EC%95%84",
+        "checkedAt": "2026-10-06T13:00:07.258Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-elphael-brace-of-the-haligtree",
+    "nameKo": "성수 버팀목 에브레펠",
+    "nameEn": "Elphael, Brace of the Haligtree",
+    "category": "locations",
+    "content_type": "base_game",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%84%B1%EC%88%98%20%EB%B2%84%ED%8C%80%EB%AA%A9%20%EC%97%90%EB%B8%8C%EB%A0%88%ED%8E%A0",
+        "checkedAt": "2026-10-06T13:00:08.752Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-margit-the-fell-omen",
+    "nameKo": "끔찍한 흉조 멀기트",
+    "nameEn": "Margit, the Fell Omen",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/GAfCi70BUfHxUFDb4MZuBpIfnETZIep-_P368Sg4alYpAAsz1Tsgtoo36FIjvvqQaCH0uHp9UA8cQX6uCMTj4oPrRpZIpuykiyl00t4jHZhhIoweqdK1qg9Klx0ju-1Vs4ZinWi6tYAPB35HKJK6_Q.webp",
+    "imageSource": "https://namu.wiki/w/%EB%81%94%EC%B0%8D%ED%95%9C%20%ED%9D%89%EC%A1%B0%20%EB%A9%80%EA%B8%B0%ED%8A%B8",
+    "details": {
+      "region": "폭풍의 언덕",
+      "rewards": "12000룬부적주머니",
+      "assetId": "asset-71891f1a1b7fc1a3aef8ddd577e80e03"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%81%94%EC%B0%8D%ED%95%9C%20%ED%9D%89%EC%A1%B0%20%EB%A9%80%EA%B8%B0%ED%8A%B8",
+        "checkedAt": "2026-10-06T13:00:10.321Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-rennala-queen-of-the-full-moon",
+    "nameKo": "만월의 여왕 레날라",
+    "nameEn": "Rennala, Queen of the Full Moon",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/iBgeFHZjic7lkYsnQ-N7NS4wNypR6Ag8nO39JUoVSnoA59qNjbrnJCyJr7CqaP69aPJFQW5uYLZlLYOvB6QH5F8QsGh98wt1LNrMM-nUPGmQ2YZRtnwmPL89f45VYqggvahun07e2qCVvRKvic6LdA.webp",
+    "imageSource": "https://namu.wiki/w/%EB%A7%8C%EC%9B%94%EC%9D%98%20%EC%97%AC%EC%99%95%20%EB%A0%88%EB%82%A0%EB%9D%BC",
+    "details": {
+      "rewards": "40,000룬(NG)120,000룬(NG+)만월의 여왕의 추억태어나지 않는 자의 거대한 룬",
+      "assetId": "asset-53080d0a45b35e7b8a17f3a121842a24"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%A7%8C%EC%9B%94%EC%9D%98%20%EC%97%AC%EC%99%95%20%EB%A0%88%EB%82%A0%EB%9D%BC",
+        "checkedAt": "2026-10-06T13:00:11.947Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-morgott-the-omen-king",
+    "nameKo": "흉조의 왕 모르고트",
+    "nameEn": "Morgott, the Omen King",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/sLkOYeMaqoswxmxjcEQdfW134YHGC_i_NyY7uFNxHC78uOC7UjyPay9bQRGXhGbjTXmJRDYA4kyB408V2o_6IyLKAgmmbkO-JLyxeLK_p_8x-P5v8zWKWO5HDNpuZ13MKjU8sZ6Zyy5kNBuMab93TA.webp",
+    "imageSource": "https://namu.wiki/w/%ED%9D%89%EC%A1%B0%EC%9D%98%20%EC%99%95%20%EB%AA%A8%EB%A5%B4%EA%B3%A0%ED%8A%B8",
+    "details": {
+      "region": "도읍 로데일 - 엘데의 왕좌",
+      "rewards": "120,000룬(NG)360,000룬(NG+)흉조의 왕의 추억모르고트의 거대한 룬",
+      "assetId": "asset-96f42fe541c126ae7bb2122edf44fe27"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%9D%89%EC%A1%B0%EC%9D%98%20%EC%99%95%20%EB%AA%A8%EB%A5%B4%EA%B3%A0%ED%8A%B8",
+        "checkedAt": "2026-10-06T13:00:13.776Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-astel-naturalborn-of-the-void",
+    "nameKo": "암흑의 부산물 아스테르",
+    "nameEn": "Astel, Naturalborn of the Void",
+    "category": "bosses",
+    "content_type": "base_game",
+    "imageUrl": "https://i.namu.wiki/i/v_9LCiahJnfzpNkEjUJChp4_Ns-nA5gfLzSgnr9izjaxBwDMZDN6iB7eGbuLSyYpXeV7GNk4eh0dX4pHIa9iFpSo-MYgUZlp1Mj1fJvxeVeiMNsiqnfnGDwnlIJPaPeCZ_S99USFMJN5GUwyW_0w2A.webp",
+    "imageSource": "https://namu.wiki/w/%EC%95%94%ED%9D%91%EC%9D%98%20%EB%B6%80%EC%82%B0%EB%AC%BC%20%EC%95%84%EC%8A%A4%ED%85%8C%EB%A5%B4",
+    "details": {
+      "region": "구별된 설원 - 이엘로 아니스 갱도",
+      "rewards": "120,000룬아스테르 메테오",
+      "assetId": "asset-41aa69af72d75dcf529c3e27179080f4"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%95%94%ED%9D%91%EC%9D%98%20%EB%B6%80%EC%82%B0%EB%AC%BC%20%EC%95%84%EC%8A%A4%ED%85%8C%EB%A5%B4",
+        "checkedAt": "2026-10-06T13:00:15.452Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-gravesite-plain",
+    "nameKo": "묘지 평원",
+    "nameEn": "Gravesite Plain",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AC%98%EC%A7%80%20%ED%8F%89%EC%9B%90",
+        "checkedAt": "2026-10-06T13:00:16.988Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-scadu-altus",
+    "nameKo": "그림자 알터",
+    "nameEn": "Scadu Altus",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EC%95%8C%ED%84%B0",
+        "checkedAt": "2026-10-06T13:00:18.553Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-cerulean-coast",
+    "nameKo": "푸른 해안",
+    "nameEn": "Cerulean Coast",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%91%B8%EB%A5%B8%20%ED%95%B4%EC%95%88",
+        "checkedAt": "2026-10-06T13:00:20.000Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-jagged-peak",
+    "nameKo": "톱니산",
+    "nameEn": "Jagged Peak",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/MuwepcDyeVVAUtQ6LOPkdZ2cMMBd955V9bCXeiWLlIO-zy4pfkDReVnXaxWLSS46yF3IB7ecOpD962T9SdCdNr5B4dCKqrcAX-8JJsOpkF41mzjIk4_Ubf3L1iKmze3BB5ppidWezP4MTuC2lTgwHQ.webp",
+    "imageSource": "https://namu.wiki/w/%ED%86%B1%EB%8B%88%EC%82%B0",
+    "details": {
+      "assetId": "asset-51b6ab8e51f116f15e11d3c5ccf51c24"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%86%B1%EB%8B%88%EC%82%B0",
+        "checkedAt": "2026-10-06T13:00:21.525Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-shadow-keep",
+    "nameKo": "그림자의 성",
+    "nameEn": "Shadow Keep",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/t3Ev88PxZmEMUioVvWcpneQ91JG_s9gKsVGAYsvkRIQ0sol0EgCYiNmDZ39i5uh3HGoGNaOZ1Br5Db_V82yJtxNUJyn8gPIjcpyCnk0aBGFiHghY2yamhmOhKRq_J0iPTQcrqaw1eeZXeU5wzigiew.webp",
+    "imageSource": "https://namu.wiki/w/%EA%B7%B8%EB%A6%BC%EC%9E%90%EC%9D%98%20%EC%84%B1",
+    "details": {
+      "assetId": "asset-945d67c59968428082b5707c873340a4"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B7%B8%EB%A6%BC%EC%9E%90%EC%9D%98%20%EC%84%B1",
+        "checkedAt": "2026-10-06T13:00:23.061Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-belurat-tower-settlement",
+    "nameKo": "탑의 도시 벨라트",
+    "nameEn": "Belurat, Tower Settlement",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%83%91%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EB%B2%A8%EB%9D%BC%ED%8A%B8",
+        "checkedAt": "2026-10-06T13:00:24.584Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-castle-ensis",
+    "nameKo": "엔시스 성채",
+    "nameEn": "Castle Ensis",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%97%94%EC%8B%9C%EC%8A%A4%20%EC%84%B1%EC%B1%84",
+        "checkedAt": "2026-10-06T13:00:26.010Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-ancient-ruins-of-rauh",
+    "nameKo": "라우프의 옛 유적",
+    "nameEn": "Ancient Ruins of Rauh",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%9D%BC%EC%9A%B0%ED%94%84%EC%9D%98%20%EC%98%9B%20%EC%9C%A0%EC%A0%81",
+        "checkedAt": "2026-10-06T13:00:27.530Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-abyssal-woods",
+    "nameKo": "나락의 숲",
+    "nameEn": "Abyssal Woods",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%82%98%EB%9D%BD%EC%9D%98%20%EC%88%B2",
+        "checkedAt": "2026-10-06T13:00:29.041Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-enir-ilim",
+    "nameKo": "에니르 일림",
+    "nameEn": "Enir-Ilim",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/ojd9hggv-iIAki6Bp_OpYsiHvNFlOwgW-1oBA6mfkEWrrxDT5lynnWGAYu8jPllzHp1x3VpmRdItHAQrFlYekx_4kk8YpYlSkdg4xiPkbIghAwMOPiMc-z6UFkipVTaOxGnKwsh31ZTpj7dM9EY4rw.webp",
+    "imageSource": "https://namu.wiki/w/%EC%97%90%EB%8B%88%EB%A5%B4%20%EC%9D%BC%EB%A6%BC",
+    "details": {
+      "assetId": "asset-9ad40de92d56cf2ef0c8535087111ff1"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%97%90%EB%8B%88%EB%A5%B4%20%EC%9D%BC%EB%A6%BC",
+        "checkedAt": "2026-10-06T13:00:30.552Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "locations-midra-s-manse",
+    "nameKo": "미드라의 저택",
+    "nameEn": "Midra's Manse",
+    "category": "locations",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AF%B8%EB%93%9C%EB%9D%BC%EC%9D%98%20%EC%A0%80%ED%83%9D",
+        "checkedAt": "2026-10-06T13:00:32.218Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-divine-beast-dancing-lion",
+    "nameKo": "신수 사자무",
+    "nameEn": "Divine Beast Dancing Lion",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "region": "라우프의 옛 유적",
+      "rewards": "180,000룬신수 회오리바람"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8B%A0%EC%88%98%20%EC%82%AC%EC%9E%90%EB%AC%B4",
+        "checkedAt": "2026-10-06T13:00:33.802Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-rellana-twin-moon-knight",
+    "nameKo": "쌍월의 기사 렐라나",
+    "nameEn": "Rellana, Twin Moon Knight",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/DuMPwvJr0UnTHXflVodBfPL6Zc19xguPk22Xk58UbscIj4SJWZ8hNl1iyq4Rxneuf-cFQ8zWAG0NzleddLaitg3pvoMa4v_EYed6gnzLEX1jPjkFPPuUDrMnt1pXXM0T6P445-jyNlBsr_EEdQsvww.webp",
+    "imageSource": "https://namu.wiki/w/%EC%8C%8D%EC%9B%94%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%A0%90%EB%9D%BC%EB%82%98",
+    "details": {
+      "region": "엔시스 성채",
+      "rewards": "240,000룬(NG)480,000룬(NG+)쌍월의 기사의 추억",
+      "assetId": "asset-4bc783721084efcd2465ef382aa50dda"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%8C%8D%EC%9B%94%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%A0%90%EB%9D%BC%EB%82%98",
+        "checkedAt": "2026-10-06T13:00:35.345Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-messmer-the-impaler",
+    "nameKo": "가시공 메스메르",
+    "nameEn": "Messmer the Impaler",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/zW0elaJcRWG1SG2fFwIuGwLoN8T43DkPSHaBQsFngYEJSE6-S463GE7PWAfPqKVNDCQ_b8y8XpsEI_HXICmhf_kTEms7HF5SAabLFjz2sW-8FTEn3agdEoKuHPGzPBH54UNT_5QCrRy7oQM5aIm36A.webp",
+    "imageSource": "https://namu.wiki/w/%EA%B0%80%EC%8B%9C%EA%B3%B5%20%EB%A9%94%EC%8A%A4%EB%A9%94%EB%A5%B4",
+    "details": {
+      "rewards": "400,000룬(NG)800,000룬(NG+)가시공의 추억메스메르의 불씨",
+      "assetId": "asset-a9287aa3bb12aeda0afc14e2990b7feb"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B0%80%EC%8B%9C%EA%B3%B5%20%EB%A9%94%EC%8A%A4%EB%A9%94%EB%A5%B4",
+        "checkedAt": "2026-10-06T13:00:37.027Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-commander-gaius",
+    "nameKo": "노장 가이우스",
+    "nameEn": "Commander Gaius",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/cChmwqd2_AuSXJV4xjcLkcbFR2uh1fKAkqVd5-lzhilqkDkOAcvFS8BdYbZRaR_xRQ5Gh1jYZY9MANiu8PDS2g.gif",
+    "imageSource": "https://namu.wiki/w/%EB%85%B8%EC%9E%A5%20%EA%B0%80%EC%9D%B4%EC%9A%B0%EC%8A%A4",
+    "details": {
+      "region": "그림자의 성 -> 그림자를 바라보는 노대",
+      "rewards": "230,000룬(NG)460,000룬(NG+)멧돼지 탄 자의 추억",
+      "assetId": "asset-052881bba00fd2a002b22760dcf38dc5"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%85%B8%EC%9E%A5%20%EA%B0%80%EC%9D%B4%EC%9A%B0%EC%8A%A4",
+        "checkedAt": "2026-10-06T13:00:38.566Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-scadutree-avatar",
+    "nameKo": "그림자 나무의 화신",
+    "nameEn": "Scadutree Avatar",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "region": "그림자 나무 기슭",
+      "rewards": "260,000룬(NG)520,000룬(NG+)영륜초의 추억미켈라의 거대한 룬"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%B7%B8%EB%A6%BC%EC%9E%90%20%EB%82%98%EB%AC%B4%EC%9D%98%20%ED%99%94%EC%8B%A0",
+        "checkedAt": "2026-10-06T13:00:40.178Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-putrescent-knight",
+    "nameKo": "수렁의 기사",
+    "nameEn": "Putrescent Knight",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/au3YfRW6C9Gw_5UgW6Z1p9154LYaEjm0cLqdJAsr6uHn1DIzYkgTm82WyA2fVvrzY1TjnsmBLPqng8M59mggGuoZgVWw1SgB-I7utDFwqDTD6LM3Ut6NtFz-CWz7Bui6k3oSOVbcoEtrLGVeo-9ybw.webp",
+    "imageSource": "https://namu.wiki/w/%EC%88%98%EB%A0%81%EC%9D%98%20%EA%B8%B0%EC%82%AC",
+    "details": {
+      "region": "푸른 해안 - 짙은 보랏빛 화원",
+      "rewards": "220,000룬(NG)440,000룬(NG+)수렁의 추억",
+      "assetId": "asset-a6150160d88d8723dc41aef328276fc1"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%88%98%EB%A0%81%EC%9D%98%20%EA%B8%B0%EC%82%AC",
+        "checkedAt": "2026-10-06T13:00:41.722Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-midra-lord-of-frenzied-flame",
+    "nameKo": "미친 불의 왕 미드라",
+    "nameEn": "Midra, Lord of Frenzied Flame",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "region": "나락의 숲 - 미드라의 저택",
+      "rewards": "410,000룬(NG)820,000룬(NG+)미친 불의 왕의 추억"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%AF%B8%EC%B9%9C%20%EB%B6%88%EC%9D%98%20%EC%99%95%20%EB%AF%B8%EB%93%9C%EB%9D%BC",
+        "checkedAt": "2026-10-06T13:00:43.399Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-bayle-the-dread",
+    "nameKo": "폭룡 베일",
+    "nameEn": "Bayle the Dread",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "region": "톱니산",
+      "rewards": "490,000룬(NG)980,000룬(NG+)베일의 심장"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%8F%AD%EB%A3%A1%20%EB%B2%A0%EC%9D%BC",
+        "checkedAt": "2026-10-06T13:00:45.048Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-romina-saint-of-the-bud",
+    "nameKo": "꽃봉오리의 성녀 로미나",
+    "nameEn": "Romina, Saint of the Bud",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/QryR2J4wYcDZEgVHppqv2j6s45fWd_FyrpFTjoXHqv-aAhfHvoww_rWDx5gKP0vxiNp2zS1WGFc9tpWwrOwguw_6ehVleVJUSevfVfwJHXFrCRp6cGCvjYqscgaW3hyvzdWmcRqB61DmIT0QUAiyLg.webp",
+    "imageSource": "https://namu.wiki/w/%EA%BD%83%EB%B4%89%EC%98%A4%EB%A6%AC%EC%9D%98%20%EC%84%B1%EB%85%80%20%EB%A1%9C%EB%AF%B8%EB%82%98",
+    "details": {
+      "region": "라우프의 옛 유적 - 꽃봉오리의 교회",
+      "rewards": "380,000룬(NG)760,000룬(NG+)꽃봉오리의 성녀의 추억",
+      "assetId": "asset-8f8c8b9cf365fd5683482d59e909ab66"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EA%BD%83%EB%B4%89%EC%98%A4%EB%A6%AC%EC%9D%98%20%EC%84%B1%EB%85%80%20%EB%A1%9C%EB%AF%B8%EB%82%98",
+        "checkedAt": "2026-10-06T13:00:46.674Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-promised-consort-radahn",
+    "nameKo": "약속의 왕 라단",
+    "nameEn": "Promised Consort Radahn",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "region": "에니르 일림 - 신의 문",
+      "rewards": "500,000룬(NG)1,000,000룬(NG+)신과 왕의 추억"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%95%BD%EC%86%8D%EC%9D%98%20%EC%99%95%20%EB%9D%BC%EB%8B%A8",
+        "checkedAt": "2026-10-06T13:00:48.448Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "bosses-metyr-mother-of-fingers",
+    "nameKo": "손가락의 어머니 메티르",
+    "nameEn": "Metyr, Mother of Fingers",
+    "category": "bosses",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {
+      "region": "미아의 손가락 유적",
+      "rewards": "420,000룬(NG)840,000룬(NG+)손가락의 어머니의 추억"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%86%90%EA%B0%80%EB%9D%BD%EC%9D%98%20%EC%96%B4%EB%A8%B8%EB%8B%88%20%EB%A9%94%ED%8B%B0%EB%A5%B4",
+        "checkedAt": "2026-10-06T13:00:49.983Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-needle-knight-leda",
+    "nameKo": "침의 기사 레다",
+    "nameEn": "Needle Knight Leda",
+    "category": "npcs",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/40KW8W24rbSLcCOVJTVskiPQ2lDdYXALI1GqL8hjOnTGl8VNGSJwisXMG0ZqBmTP4yTA0bozRALlX0qKNxlOuMxV8mdKC_RdKdCpDaz7goEnHKlG7OzUhcufI9PZ_gwRDb6peakYWztSfDp47rkr5A.webp",
+    "imageSource": "https://namu.wiki/w/%EC%B9%A8%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%A0%88%EB%8B%A4",
+    "details": {
+      "region": "에니르 일림",
+      "rewards": "300,000룬, 레다의 검",
+      "assetId": "asset-6e7880786874e3071fa99f8973a196f3"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%B9%A8%EC%9D%98%20%EA%B8%B0%EC%82%AC%20%EB%A0%88%EB%8B%A4",
+        "checkedAt": "2026-10-06T13:00:51.563Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-hornsent",
+    "nameKo": "뿔인간",
+    "nameEn": "Hornsent",
+    "category": "npcs",
+    "content_type": "shadow_of_the_erdtree",
+    "details": {},
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EB%BF%94%EC%9D%B8%EA%B0%84#%EB%BF%94%EC%9D%B8%EA%B0%84%20%EB%B3%B5%EC%88%98%EC%9E%90",
+        "checkedAt": "2026-10-06T13:00:53.090Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-thiollier",
+    "nameKo": "티에리에",
+    "nameEn": "Thiollier",
+    "category": "npcs",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/FLbRccM4i7G5lLgEGtoggJC2M-HW26zktotuKKL8yqw8cvnrC4ypoWKiymBHOV31nzmzhdvRcFZ1nyIJJetvBNMAPIZiWjYYLkd1CbLnJrQ3at59BTx-Ge_Ceso9gAtg53s36dZZvASAnmwKADRKBg.webp",
+    "imageSource": "https://namu.wiki/w/%ED%8B%B0%EC%97%90%EB%A6%AC%EC%97%90",
+    "details": {
+      "assetId": "asset-aa3b588dc004934a2a97e0e9be356513"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%ED%8B%B0%EC%97%90%EB%A6%AC%EC%97%90",
+        "checkedAt": "2026-10-06T13:00:59.567Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  },
+  {
+    "id": "npcs-igon",
+    "nameKo": "에이곤",
+    "nameEn": "Igon",
+    "category": "npcs",
+    "content_type": "shadow_of_the_erdtree",
+    "imageUrl": "https://i.namu.wiki/i/WukcZDknEQleQX9qHQha0KPCcl6Hp-BE3z-5ZWzfxJZFosJS4YKH2LZzM7ygpnsy7yj3pXWSxFW4WC4cjtXRUmziNub-cKa-TdLgXwVFS96DG4gndTw5vqyt7W4GSgTtQxaZGBFlu3NPZvkMl2S3Lw.webp",
+    "imageSource": "https://namu.wiki/w/%EC%97%90%EC%9D%B4%EA%B3%A4",
+    "details": {
+      "assetId": "asset-b7132d6e8ba86091f0e1e5713a68ca99"
+    },
+    "relatedNames": [],
+    "sources": [
+      {
+        "title": "나무위키 · 인물·지역 정형 정보",
+        "url": "https://namu.wiki/w/%EC%97%90%EC%9D%B4%EA%B3%A4",
+        "checkedAt": "2026-10-06T13:01:01.005Z",
+        "note": "짧은 표 사실과 이미지 출처만 추출. 다중 회차 체력·내성은 원문 확인 필요. 독립 검증 아님."
+      }
+    ]
+  }
+]

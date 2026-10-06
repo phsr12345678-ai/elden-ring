@@ -21,6 +21,10 @@ export const contentLabel = (value: string) => value === 'base_game' ? '본편' 
 export function normalize(text: string) { return text.normalize('NFKC').toLowerCase().replace(/\s+/g, ' ').trim(); }
 export function slug(text: string) { return normalize(text).replace(/[^a-z0-9가-힣]+/g, '-').replace(/^-|-$/g, ''); }
 export const FIELD_LABELS: Record<string, string> = {
+  defenceMax:'최대 강화 가드 수치',defenceBasis:'가드 수치 기준',
+  scalingBasis:'보정 수치 기준',
+  crossCheck:'출처 간 수치 비교',sourceDifferences:'출처별 다른 수치',agreed:'일치한 항목',needsReview:'검토할 차이',snapshot2022:'2022 공개 자료',namu:'나무위키 표',
+  attackMax:'최대 강화 공격력',scalingMax:'최대 강화 보정',assetId:'로컬 그림 ID',navigation:'찾아가는 경로',weaponType:'무기 종류',
   attack:'기본 공격력 (+0)', defence:'가드 수치', damageNegation:'경감률', resistance:'내성',
   requirements:'필요 능력치', scaling:'능력치 보정 (+0)', weight:'중량', physical:'물리',
   magic:'마력', fire:'화염', lightning:'벼락', holy:'신성', critical:'치명', guardBoost:'가드 강도',

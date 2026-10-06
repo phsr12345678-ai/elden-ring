@@ -1,5 +1,9 @@
+import fs from 'node:fs';
+import {assertAllowed} from '../lib/validation';
+import {CONTENT_TYPES} from '../lib/catalog';
 import { buildDataset } from './dataset';
 const entries=buildDataset();
+if(fs.existsSync('data/assets.json'))for(const a of JSON.parse(fs.readFileSync('data/assets.json','utf8'))){assertAllowed(a);if(!/^[a-z0-9-]+$/.test(a.id))throw Error('Invalid asset ID');if(a.content_type&&!CONTENT_TYPES.includes(a.content_type))throw Error('Invalid asset scope');}
 const ids=new Set(entries.map(e=>e.id));
 let relations=0,steps=0;
 for(const e of entries) {
